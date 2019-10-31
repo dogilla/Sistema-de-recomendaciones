@@ -1,0 +1,119 @@
+body{
+    background: black;
+    color: rgb(16, 214, 16);
+    align-content: center;
+}
+
+body h1 {
+    color: rgb(16, 214, 16);
+    font-family: 'Lobster';
+    text-align: center;
+    font-size: -webkit-xxx-large;
+    height: 20px;
+    margin: 130px;
+}
+
+footer{
+    text-align: center;
+    line-height: 10;
+}
+
+#boton{
+    background: black; 
+    color:rgb(103, 223, 103);
+    width: 140px;
+    height: 60px;
+    border: 1px solid #338033;
+    font-size: 15px;
+    border-radius: 4px;
+    transition: .6s;
+    overflow: hidden;
+    margin: 50px auto;
+    display: block;
+
+}
+
+#boton::before{
+    content: '';
+    display: block;
+    position: absolute;
+    background: rbga(255,255,255,.5);
+    width: 60px;
+    opacity: .5s;
+    filter: blur(30x);
+    transform: translate(-130px) skew(-15deg);
+}
+
+#boton::after{
+    content: '';
+    display: block;
+    position: absolute;
+    background: rbga(255,255,255,.5);
+    width: 60px;
+    opacity: .5s;
+    filter: blur(30x);
+    transform: translate(-130px) skew(-15deg);
+}
+
+#boton:hover{
+    background: #338033;
+    cursor: pointer;
+}
+
+#boton:hover:before{
+    transform:  translate(300px) skew(-15deg);
+    opacity: .6s;
+    transition: .7s;
+}
+
+#boton:hover:after{
+    transform:  translate(300px) skew(-15deg);
+    opacity: .6s;
+    transition: .7s;
+}
+
+
+.content {
+    width: 60%;
+    align-items: center;
+    text-align: center;
+    margin: 0px auto;
+}
+
+input.search-input {
+    margin: 100px auto;
+    border: 0;
+    color: #338033;
+    background: transparent;
+    font-size: xx-large;
+    border: 2px solid;
+    display: inline-block;
+    border-radius: 7px;
+    width: 100%;
+    margin: 0px;
+}
+
+
+.suggestions {
+border-top: 2px solid #338033;
+}
+
+.suggestions > div {
+padding: 15px;
+font-size: 20px;
+color: rgb(153, 216, 153);
+border-top: 1px solid rgb(132, 199, 56);
+cursor: pointer;
+}
+
+.suggestions > div:hover {
+background-color: #6df12f;
+}
+
+
+
+
+
+
+
+

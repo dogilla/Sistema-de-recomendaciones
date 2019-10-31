@@ -1,0 +1,27 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang=en>
+    <head>
+        <title>Sistema de recomendacion</title>
+        <link rel="stylesheet" href="{% static 'Pagina/base.css' %}">
+        <link href='//fonts.googleapis.com/css?family=Lobster&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+    </head>
+
+
+    <body>
+
+        <h1 > ¿Qué aplicación te gusta? </h1>
+        <div class="content">
+        {% block content %}
+
+        {% endblock content %}
+        </div>
+        
+        <script src="{% static 'Pagina/text.js' %}"></script>
+    </body>
+
+    <footer>
+        <h5>Facultad de ciencias - UNAM</h5> 
+    </footer>
+</html>

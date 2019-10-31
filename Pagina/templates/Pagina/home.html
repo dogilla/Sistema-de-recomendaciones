@@ -1,0 +1,15 @@
+{% extends 'Pagina/base.html' %}
+
+{% load static %}
+<link rel="stylesheet" href="{% static 'Pagina/home.css' %}">
+
+{% block content %}
+
+<form method="POST"> {% csrf_token %}
+    <input class="search-input" type="text" maxlength="500" placeholder="buscar.." name="recomendacion" autocomplete="off"/>
+    <div class="suggestions">
+    </div>
+    <input type="submit" value="Guardar" id="boton"/>
+</form>
+{% endblock content %}
+
