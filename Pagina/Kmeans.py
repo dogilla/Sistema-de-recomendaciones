@@ -87,22 +87,22 @@ class Kmeans():
         """
         reajusta los centroides en el punto medio de todos los puntos de dicho color
         """
-        categorias_mean = []
-        rating_mean = []
-        size_mean = []
-        color_mean = []
+        medias = [[],[],[],[]]
         resultados = []
-        #(numero de elem, suma)
         for color in self.colores:
             for app in self.apps:
                 if app[5] == color:
-                    categorias_mean.append(app[1])
-                    #lo mismo para los 4
-                resultados.append([numpy.average(categorias_mean), numpy.average(rating_mean)])
-        i = 0
-        for centroide in self.centroides:
-            centroide = resultados[i]
-            i +=1
+                    medias[0].append(app[1])
+                    medias[1].append(app[2])
+                    medias[2].append(app[3])
+                    medias[3].append(app[4])
+                else:
+                    continue
+            nuevo_centoide = []
+            for media in len(medias):
+                resultados.append(numpy.average(medias.pop()).item())
+            self.centroides[color] = resultados
+            resultados = []
 
     def k_mean_resulado(self):
         self.nuevos_centroides(73)
