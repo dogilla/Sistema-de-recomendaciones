@@ -23,10 +23,13 @@ class Kmeans():
     colores: list of int
         lista con los colores que se le dan a los centroides y a los puntos en el plano,
         los colores son representados con enteros que van a de 0 a k.
+    n_apps: int
+        numero de aplicaciones que hay en la base de datos
 
     """
 
     apps = []
+    n_apps = 0
     centroides = []
     num_colores = 0
     colores = []
@@ -36,6 +39,8 @@ class Kmeans():
         self.nuevos_centroides(k_valor)
         self.num_colores = k_valor
         self.colores = [i for i in range(k_valor)]
+        self.n_apps = len(self.apps)
+        self.colorea_puntos()
 
     def open_document(self):
         """ 
@@ -47,6 +52,7 @@ class Kmeans():
             spamreader = csv.reader(csvfile, delimiter=',', quotechar='|')
             for row in spamreader:
                 self.apps.append(row)
+        print(str(self.apps))
         s = 0
         faltantes = [] 
         for app in self.apps:
@@ -88,8 +94,6 @@ class Kmeans():
         vector2 = numpy.array((b[0], b[1], b[2], b[3]))
         return round((numpy.linalg.norm(vector1-vector2)).item(), 2)
 
-
-    
     def colorea_puntos(self):
         """
         colorea los puntos del espacio segun cual es el centroide más cercano, conceptualmente se 
@@ -105,7 +109,7 @@ class Kmeans():
             minimo = min(dicc.keys()) #regresa el minimo, el más cercano
             app[5] = dicc.get(minimo)
     
-    def reajusta_centroides(self, centroides):
+    def reajusta_centroides(self):
         """
         reajusta los centroides en el punto medio de todos los puntos del mismo color
 
@@ -120,25 +124,47 @@ class Kmeans():
             Lista que guarda el promedio (media aritmetica) de cada atributo que los apps que tienen el
             mismo color, esta lista se vuelve el nuevo centroide de ese color
         """
-        medias = [[],[],[],[]]
+        medias = [[0],[0],[0],[0]]
         resultados = []
         for color in self.colores:
             for app in self.apps:
                 if app[5] == color:
-                    medias[0].append(app[1])
-                    medias[1].append(app[2])
-                    medias[2].append(app[3])
-                    medias[3].append(app[4])
+                    medias[0][0] = medias[0][0] + app[1]
+                    medias[1][0] = medias[1][0] + app[2]
+                    medias[2][0] = medias[2][0] + app[3]
+                    medias[3][0] = medias[3][0] + app[4]
                 else:
-                    continue
-            nuevo_centoide = []
-            for media in len(medias):
-                resultados.append(numpy.average(medias.pop()).item())
+                    pass
+            m = lambda x : round((x/self.n_apps),1)
+            resultados = [m(i[0]) for i in medias]
             self.centroides[color] = resultados
             resultados = []
 
-    def k_mean_resulado(self):
-        self.nuevos_centroides(73)
+    def k_mean_resultado(self, aplicacion):
+        """
+        devuelve una lista con los resultados de la recomendacion
+        """
+        viejo_centroide = self.centroides[1]
+        nuevo_centroide = []
+        while (viejo_centroide != nuevo_centroide):
+            viejo_centroide = self.centroides[1]
+            self.reajusta_centroides()
+            nuevo_centroide = self.centroides[1]
+            self.colorea_puntos()
+
+        resultados = []
+        for app in self.apps:
+            if app[0] == aplicacion:
+                c = app[1]
+                color_app = app[5]
+                break
+        for app in self.apps:
+            if app[5] == color_app and app[1] == c:
+                resultados.append(app[0])
+        return resultados
+
+        
+
         
         
 

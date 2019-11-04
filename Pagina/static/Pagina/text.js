@@ -7,7 +7,7 @@ const countries =
       "name": "Coloring book moana"
     },
     {
-      "name": "U Launcher Lite – FREE Live Cool Themes"
+      "name": "U Launcher Lite – FREE Live Cool Themes  Hide Apps"
     },
     {
       "name": "Sketch - Draw & Paint"
@@ -136,7 +136,7 @@ const countries =
       "name": "Popsicle Sticks and Similar DIY Craft Ideas"
     },
     {
-      "name": "Canva: Poster, banner, card maker & graphic design"
+      "name": "Canva: Poster banner card maker & graphic design"
     },
     {
       "name": "Install images with music to make video without Net - 2018"
@@ -178,7 +178,7 @@ const countries =
       "name": "Restart Navigator"
     },
     {
-      "name": "REG - Check the regnumber, find information about Swedish vehicles"
+      "name": "REG - Check the regnumber find information about Swedish vehicles"
     },
     {
       "name": "CityBus Lviv"
@@ -187,7 +187,7 @@ const countries =
       "name": "CDL Practice Test 2018 Edition"
     },
     {
-      "name": "ezETC (ETC balance inquiry, meter trial, real-time traffic)"
+      "name": "ezETC (ETC balance inquiry meter trial real-time traffic)"
     },
     {
       "name": "Free VIN Report for Used Cars"
@@ -211,13 +211,13 @@ const countries =
       "name": "Used cars for sale - Trovit"
     },
     {
-      "name": "Fines of the State Traffic Safety Inspectorate are official: inspection, payment of fines"
+      "name": "Fines of the State Traffic Safety Inspectorate are official: inspection payment of fines"
     },
     {
       "name": "SK Enca Direct Malls - Used Cars Search"
     },
     {
-      "name": "Android Auto - Maps, Media, Messaging & Voice"
+      "name": "Android Auto - Maps Media Messaging & Voice"
     },
     {
       "name": "PDD-UA"
@@ -229,7 +229,7 @@ const countries =
       "name": "Super Cars Wallpapers And Backgrounds"
     },
     {
-      "name": "Police Lights, Sirens & Follow Me"
+      "name": "Police Lights Sirens & Follow Me"
     },
     {
       "name": "Police Detector (Speed Camera Radar)"
@@ -283,7 +283,7 @@ const countries =
       "name": "auto fines"
     },
     {
-      "name": "Used car is the first car - used car purchase, used car quotation, dealer information to"
+      "name": "Used car is the first car - used car purchase used car quotation dealer information to"
     },
     {
       "name": "All of the parking lot - National Park application (parking lot search / parking sharing / discount payment)"
@@ -298,13 +298,13 @@ const countries =
       "name": "Hush - Beauty for Everyone"
     },
     {
-      "name": "ipsy: Makeup, Beauty, and Tips"
+      "name": "ipsy: Makeup Beauty and Tips"
     },
     {
       "name": "Natural recipes for your beauty"
     },
     {
-      "name": "BestCam Selfie-selfie, beauty camera, photo editor"
+      "name": "BestCam Selfie-selfie beauty camera photo editor"
     },
     {
       "name": "Mirror - Zoom & Exposure -"
@@ -367,13 +367,13 @@ const countries =
       "name": "Haircut Tutorials/Haircut Videos"
     },
     {
-      "name": "Sephora: Skin Care, Beauty Makeup & Fragrance Shop"
+      "name": "Sephora: Skin Care Beauty Makeup & Fragrance Shop"
     },
     {
       "name": "Manicure - nail design"
     },
     {
-      "name": "Sticker Camera - Selfie Filters, Beauty Camera"
+      "name": "Sticker Camera - Selfie Filters Beauty Camera"
     },
     {
       "name": "Filters for B Live"
@@ -388,7 +388,7 @@ const countries =
       "name": "Makeup Videos"
     },
     {
-      "name": "Secrets of beauty, youth and health"
+      "name": "Secrets of beauty youth and health"
     },
     {
       "name": "Recipes and tips for losing weight"
@@ -403,7 +403,7 @@ const countries =
       "name": "Dresses Ideas & Fashions +3000"
     },
     {
-      "name": "Lady adviser (beauty, health)"
+      "name": "Lady adviser (beauty health)"
     },
     {
       "name": "Step By Step Hairstyles For Women"
@@ -535,7 +535,7 @@ const countries =
       "name": "eBoox new: Reader for fb2 epub zip books"
     },
     {
-      "name": "Only 30 days in English, the guideline is guaranteed"
+      "name": "Only 30 days in English the guideline is guaranteed"
     },
     {
       "name": "Moon+ Reader"
@@ -649,7 +649,7 @@ const countries =
       "name": "Facebook Ads Manager"
     },
     {
-      "name": "IndiaMART: Search Products, Buy, Sell & Trade"
+      "name": "IndiaMART: Search Products Buy Sell & Trade"
     },
     {
       "name": "ViettelPost express delivery"
@@ -661,7 +661,7 @@ const countries =
       "name": "Job Korea - Career Jobs"
     },
     {
-      "name": "104 Looking for a job - looking for a job, looking for a job, looking for a part-time job, health checkup, resume, treatment room"
+      "name": "104 Looking for a job - looking for a job looking for a job looking for a part-time job health checkup resume treatment room"
     },
     {
       "name": "Myanmar 2D/3D"
@@ -739,7 +739,7 @@ const countries =
       "name": "Xero Accounting Software"
     },
     {
-      "name": "MailChimp - Email, Marketing Automation"
+      "name": "MailChimp - Email Marketing Automation"
     },
     {
       "name": "Crew - Free Messaging and Scheduling"
@@ -826,7 +826,7 @@ const countries =
       "name": "Xero Accounting Software"
     },
     {
-      "name": "MailChimp - Email, Marketing Automation"
+      "name": "MailChimp - Email Marketing Automation"
     },
     {
       "name": "Crew - Free Messaging and Scheduling"
@@ -940,7 +940,7 @@ const countries =
       "name": "Daily Manga - Comic & Webtoon"
     },
     {
-      "name": "漫咖 Comics - Manga,Novel and Stories"
+      "name": "漫咖 Comics - MangaNovel and Stories"
     },
     {
       "name": "Emmanuella Funny Videos 2018"
@@ -955,7 +955,7 @@ const countries =
       "name": "Marvel Unlimited"
     },
     {
-      "name": "Tapas – Comics, Novels, and Stories"
+      "name": "Tapas – Comics Novels and Stories"
     },
     {
       "name": "Children's cartoons (Mithu-Mina-Raju)"
@@ -994,7 +994,7 @@ const countries =
       "name": "Perfect Viewer"
     },
     {
-      "name": "Best Wallpapers Backgrounds(100,000+ 4K HD)"
+      "name": "Best Wallpapers Backgrounds(100000+ 4K HD)"
     },
     {
       "name": "think Comics"
@@ -1003,7 +1003,7 @@ const countries =
       "name": "Memes Button"
     },
     {
-      "name": "Laftel - Watching and Announcing Snooping, Streaming"
+      "name": "Laftel - Watching and Announcing Snooping Streaming"
     },
     {
       "name": "Messenger – Text and Video Chat for Free"
@@ -1162,7 +1162,7 @@ const countries =
       "name": "Hangouts"
     },
     {
-      "name": "Talkatone: Free Texts, Calls & Phone Number"
+      "name": "Talkatone: Free Texts Calls & Phone Number"
     },
     {
       "name": "Calls & Text by Mo+"
@@ -1186,13 +1186,13 @@ const countries =
       "name": "Google Voice"
     },
     {
-      "name": "GO SMS Pro - Messenger, Free Themes, Emoji"
+      "name": "GO SMS Pro - Messenger Free Themes Emoji"
     },
     {
       "name": "Android Messages"
     },
     {
-      "name": "Messaging+ SMS, MMS Free"
+      "name": "Messaging+ SMS MMS Free"
     },
     {
       "name": "chomp SMS"
@@ -1240,7 +1240,7 @@ const countries =
       "name": "Firefox Browser fast & private"
     },
     {
-      "name": "CM Browser - Ad Blocker , Fast Download , Privacy"
+      "name": "CM Browser - Ad Blocker  Fast Download  Privacy"
     },
     {
       "name": "Puffin Web Browser"
@@ -1255,7 +1255,7 @@ const countries =
       "name": "Opera Mini - fast web browser"
     },
     {
-      "name": "Dolphin Browser - Fast, Private & Adblock🐬"
+      "name": "Dolphin Browser - Fast Private & Adblock🐬"
     },
     {
       "name": "UC Browser Mini -Tiny Fast Private & Secure"
@@ -1321,7 +1321,7 @@ const countries =
       "name": "RocketDial Dialer & Contacts"
     },
     {
-      "name": "CallApp: Caller ID, Blocker & Phone Call Recorder"
+      "name": "CallApp: Caller ID Blocker & Phone Call Recorder"
     },
     {
       "name": "Whoscall - Caller ID & Block"
@@ -1348,7 +1348,7 @@ const countries =
       "name": "Burner - Free Phone Number"
     },
     {
-      "name": "Truecaller: Caller ID, SMS spam blocking & Dialer"
+      "name": "Truecaller: Caller ID SMS spam blocking & Dialer"
     },
     {
       "name": "Caller ID +"
@@ -1363,7 +1363,7 @@ const countries =
       "name": "K-9 Mail"
     },
     {
-      "name": "myMail – Email for Hotmail, Gmail and Outlook Mail"
+      "name": "myMail – Email for Hotmail Gmail and Outlook Mail"
     },
     {
       "name": "Email TypeApp - Mail App"
@@ -1372,7 +1372,7 @@ const countries =
       "name": "All Email Providers"
     },
     {
-      "name": "Newton Mail - Email App for Gmail, Outlook, IMAP"
+      "name": "Newton Mail - Email App for Gmail Outlook IMAP"
     },
     {
       "name": "GO Notifier"
@@ -1429,7 +1429,7 @@ const countries =
       "name": "KakaoTalk: Free Calls & Text"
     },
     {
-      "name": "Moco+ - Chat, Meet People"
+      "name": "Moco+ - Chat Meet People"
     },
     {
       "name": "Calculator"
@@ -1438,7 +1438,7 @@ const countries =
       "name": "Truth or Dare Pro"
     },
     {
-      "name": "Private Dating, Hide App- Blue for PrivacyHider"
+      "name": "Private Dating Hide App- Blue for PrivacyHider"
     },
     {
       "name": "Ad Blocker for SayHi"
@@ -1456,7 +1456,7 @@ const countries =
       "name": "Match™ Dating - Meet Singles"
     },
     {
-      "name": "Hily: Dating, Chat, Match, Meet & Hook up"
+      "name": "Hily: Dating Chat Match Meet & Hook up"
     },
     {
       "name": "Hinge: Dating & Relationships"
@@ -1468,7 +1468,7 @@ const countries =
       "name": "BBW Dating & Plus Size Chat"
     },
     {
-      "name": "Moco - Chat, Meet People"
+      "name": "Moco - Chat Meet People"
     },
     {
       "name": "CMB Free Dating App"
@@ -1483,7 +1483,7 @@ const countries =
       "name": "Free Dating App & Flirt Chat - Match with Singles"
     },
     {
-      "name": "Chispa, the Dating App for Latino, Latina Singles"
+      "name": "Chispa the Dating App for Latino Latina Singles"
     },
     {
       "name": "Clover Dating App"
@@ -1501,7 +1501,7 @@ const countries =
       "name": "stranger chat - anonymous chat"
     },
     {
-      "name": "Blendr - Chat, Flirt & Meet"
+      "name": "Blendr - Chat Flirt & Meet"
     },
     {
       "name": "Free Dating Hook Up Messenger"
@@ -1534,10 +1534,10 @@ const countries =
       "name": "BeWild Free Dating & Chat App"
     },
     {
-      "name": "FastMeet: Chat, Dating, Love"
+      "name": "FastMeet: Chat Dating Love"
     },
     {
-      "name": "Free Dating App - YoCutie - Flirt, Chat & Meet"
+      "name": "Free Dating App - YoCutie - Flirt Chat & Meet"
     },
     {
       "name": "OurTime Dating for Singles 50+"
@@ -1573,10 +1573,10 @@ const countries =
       "name": "Sugar Mommas Dating And Single Search"
     },
     {
-      "name": "Hide App, Private Dating, Safe Chat - PrivacyHider"
+      "name": "Hide App Private Dating Safe Chat - PrivacyHider"
     },
     {
-      "name": "muzmatch: Muslim & Arab Singles, Marriage & Dating"
+      "name": "muzmatch: Muslim & Arab Singles Marriage & Dating"
     },
     {
       "name": "NoBuffDating - Free Dating App"
@@ -1591,13 +1591,13 @@ const countries =
       "name": "Free Dating App - Meet Local Singles - Flirt Chat"
     },
     {
-      "name": "Meet4U - Chat, Love, Singles!"
+      "name": "Meet4U - Chat Love Singles!"
     },
     {
       "name": "SnpCupid Dating"
     },
     {
-      "name": "Chat Rooms, Avatars, Date - Galaxy"
+      "name": "Chat Rooms Avatars Date - Galaxy"
     },
     {
       "name": "Adult Dating - AdultFinder"
@@ -1606,7 +1606,7 @@ const countries =
       "name": "Gay Sugar Daddy Dating & Hookup – Sudy Gay"
     },
     {
-      "name": "Meet24 - Love, Chat, Singles"
+      "name": "Meet24 - Love Chat Singles"
     },
     {
       "name": "BBWCupid - BBW Dating App"
@@ -1615,13 +1615,13 @@ const countries =
       "name": "ChatVideo Meet new people"
     },
     {
-      "name": "TryDate - Free Online Dating App, Chat Meet Adults"
+      "name": "TryDate - Free Online Dating App Chat Meet Adults"
     },
     {
       "name": "Black White Interracial Dating - Interracial Match"
     },
     {
-      "name": "USA Singles Meet, Match and Date Free - Date"
+      "name": "USA Singles Meet Match and Date Free - Date"
     },
     {
       "name": "FlirtChat - ♥Free Dating/Flirting App♥"
@@ -1633,7 +1633,7 @@ const countries =
       "name": "CMB Free Dating App"
     },
     {
-      "name": "Hily: Dating, Chat, Match, Meet & Hook up"
+      "name": "Hily: Dating Chat Match Meet & Hook up"
     },
     {
       "name": "Hinge: Dating & Relationships"
@@ -1654,10 +1654,10 @@ const countries =
       "name": "Clover Dating App"
     },
     {
-      "name": "Moco - Chat, Meet People"
+      "name": "Moco - Chat Meet People"
     },
     {
-      "name": "Herpes Dating: 1,000K+ Singles"
+      "name": "Herpes Dating: 1000K+ Singles"
     },
     {
       "name": "Hot or Not - Find someone right now"
@@ -1675,16 +1675,16 @@ const countries =
       "name": "Sudy – Meet Elite & Rich Single"
     },
     {
-      "name": "muzmatch: Muslim & Arab Singles, Marriage & Dating"
+      "name": "muzmatch: Muslim & Arab Singles Marriage & Dating"
     },
     {
       "name": "95Live -SG#1 Live Streaming App"
     },
     {
-      "name": "Chispa, the Dating App for Latino, Latina Singles"
+      "name": "Chispa the Dating App for Latino Latina Singles"
     },
     {
-      "name": "Blendr - Chat, Flirt & Meet"
+      "name": "Blendr - Chat Flirt & Meet"
     },
     {
       "name": "Find Real Love — YouLove Premium Dating"
@@ -1708,13 +1708,13 @@ const countries =
       "name": "Dating for 50 plus Mature Singles – FINALLY"
     },
     {
-      "name": "SweetRing - Meet, Match, Date"
+      "name": "SweetRing - Meet Match Date"
     },
     {
-      "name": "BiggerCity: Chat for gay bears, chubs & chasers"
+      "name": "BiggerCity: Chat for gay bears chubs & chasers"
     },
     {
-      "name": "Moco+ - Chat, Meet People"
+      "name": "Moco+ - Chat Meet People"
     },
     {
       "name": "SilverSingles: The 50+ Dating App"
@@ -1723,10 +1723,10 @@ const countries =
       "name": "Herpes Positive Singles Dating"
     },
     {
-      "name": "Chat Rooms, Avatars, Date - Galaxy"
+      "name": "Chat Rooms Avatars Date - Galaxy"
     },
     {
-      "name": "FastMeet: Chat, Dating, Love"
+      "name": "FastMeet: Chat Dating Love"
     },
     {
       "name": "Christian Dating For Free App"
@@ -1735,10 +1735,10 @@ const countries =
       "name": "Glam - Premium Dating App"
     },
     {
-      "name": "iDates - Chats, Flirts, Dating, Love & Relations"
+      "name": "iDates - Chats Flirts Dating Love & Relations"
     },
     {
-      "name": "Meet24 - Love, Chat, Singles"
+      "name": "Meet24 - Love Chat Singles"
     },
     {
       "name": "Black White Interracial Dating - Interracial Match"
@@ -1771,7 +1771,7 @@ const countries =
       "name": "BBW Dating & Curvy Singles Chat- LargeFriends"
     },
     {
-      "name": "Hide App, Private Dating, Safe Chat - PrivacyHider"
+      "name": "Hide App Private Dating Safe Chat - PrivacyHider"
     },
     {
       "name": "Hitwe - meet people and chat"
@@ -1789,7 +1789,7 @@ const countries =
       "name": "WannaMeet – Dating & Chat App"
     },
     {
-      "name": "Meet4U - Chat, Love, Singles!"
+      "name": "Meet4U - Chat Love Singles!"
     },
     {
       "name": "Luxy Pro- Elite Dating Single"
@@ -1798,13 +1798,13 @@ const countries =
       "name": "Dating Network"
     },
     {
-      "name": "Chatting - Free chat, random chat, boyfriend, girlfriend"
+      "name": "Chatting - Free chat random chat boyfriend girlfriend"
     },
     {
-      "name": "iPair-Meet, Chat, Dating"
+      "name": "iPair-Meet Chat Dating"
     },
     {
-      "name": "Meet, chat & date. Free dating app - Chocolate app"
+      "name": "Meet chat & date. Free dating app - Chocolate app"
     },
     {
       "name": "Transenger – Ts Dating and Chat for Free"
@@ -1993,7 +1993,7 @@ const countries =
       "name": "Just She - Top Lesbian Dating"
     },
     {
-      "name": "Hily: Dating"
+      "name": "Hily: Dating Chat Match Meet & Hook up"
     },
     {
       "name": "O-Star"
@@ -2020,13 +2020,13 @@ const countries =
       "name": "Chat Kids - Chat Room For Kids"
     },
     {
-      "name": "muzmatch: Muslim & Arab Singles"
+      "name": "muzmatch: Muslim & Arab Singles Marriage & Dating"
     },
     {
       "name": "BBW Dating & Plus Size Chat"
     },
     {
-      "name": "2Date Dating App"
+      "name": "2Date Dating App Love and matching"
     },
     {
       "name": "Transenger – Ts Dating and Chat for Free"
@@ -2086,16 +2086,16 @@ const countries =
       "name": "Sugar Daddies Dating App"
     },
     {
-      "name": "iPair-Meet, Chat, Dating"
+      "name": "iPair-Meet Chat Dating"
     },
     {
       "name": "Free Dating Hook Up Messenger"
     },
     {
-      "name": "Free Dating App - YoCutie - Flirt, Chat & Meet"
+      "name": "Free Dating App - YoCutie - Flirt Chat & Meet"
     },
     {
-      "name": "Chat Mexico: meet people, flirt and friendship"
+      "name": "Chat Mexico: meet people flirt and friendship"
     },
     {
       "name": "Duolingo: Learn Languages Free"
@@ -2137,7 +2137,7 @@ const countries =
       "name": "Mermaids"
     },
     {
-      "name": "Learn Japanese, Korean, Chinese Offline & Free"
+      "name": "Learn Japanese Korean Chinese Offline & Free"
     },
     {
       "name": "Kids Mode"
@@ -2212,7 +2212,7 @@ const countries =
       "name": "English with Lingualeo"
     },
     {
-      "name": "Learn languages, grammar & vocabulary with Memrise"
+      "name": "Learn languages grammar & vocabulary with Memrise"
     },
     {
       "name": "Khan Academy"
@@ -2230,7 +2230,7 @@ const countries =
       "name": "Coursera: Online courses"
     },
     {
-      "name": "edX - Online Courses by Harvard, MIT & more"
+      "name": "edX - Online Courses by Harvard MIT & more"
     },
     {
       "name": "Elevate - Brain Training Games"
@@ -2290,7 +2290,7 @@ const countries =
       "name": "Learn HTML"
     },
     {
-      "name": "Programming Hub, Learn to code"
+      "name": "Programming Hub Learn to code"
     },
     {
       "name": "Learn SQL"
@@ -2317,7 +2317,7 @@ const countries =
       "name": "GRE Flashcards"
     },
     {
-      "name": "play2prep: ACT, SAT prep"
+      "name": "play2prep: ACT SAT prep"
     },
     {
       "name": "SAT Test"
@@ -2368,7 +2368,7 @@ const countries =
       "name": "Udacity - Lifelong Learning"
     },
     {
-      "name": "edX - Online Courses by Harvard, MIT & more"
+      "name": "edX - Online Courses by Harvard MIT & more"
     },
     {
       "name": "Rosetta Stone: Learn to Speak & Read New Languages"
@@ -2380,7 +2380,7 @@ const countries =
       "name": "Lynda - Online Training Videos"
     },
     {
-      "name": "Learn languages, grammar & vocabulary with Memrise"
+      "name": "Learn languages grammar & vocabulary with Memrise"
     },
     {
       "name": "Brilliant"
@@ -2419,13 +2419,13 @@ const countries =
       "name": "Learn to Speak English"
     },
     {
-      "name": "Learn languages, grammar & vocabulary with Memrise"
+      "name": "Learn languages grammar & vocabulary with Memrise"
     },
     {
       "name": "Learn English with Wlingua"
     },
     {
-      "name": "busuu: Learn Languages - Spanish, English & More"
+      "name": "busuu: Learn Languages - Spanish English & More"
     },
     {
       "name": "My Class Schedule: Timetable"
@@ -2488,7 +2488,7 @@ const countries =
       "name": "Learn 50 languages"
     },
     {
-      "name": "HelloTalk — Chat, Speak & Learn Foreign Languages"
+      "name": "HelloTalk — Chat Speak & Learn Foreign Languages"
     },
     {
       "name": "Mango Languages: Lovable Language Courses"
@@ -2497,7 +2497,7 @@ const countries =
       "name": "Rosetta Stone: Learn to Speak & Read New Languages"
     },
     {
-      "name": "Learn languages, grammar & vocabulary with Memrise"
+      "name": "Learn languages grammar & vocabulary with Memrise"
     },
     {
       "name": "Babbel – Learn Languages"
@@ -2506,7 +2506,7 @@ const countries =
       "name": "Innovative: Learn 34 Languages"
     },
     {
-      "name": "busuu: Learn Languages - Spanish, English & More"
+      "name": "busuu: Learn Languages - Spanish English & More"
     },
     {
       "name": "My Class Schedule: Timetable"
@@ -2533,13 +2533,13 @@ const countries =
       "name": "ClassDojo"
     },
     {
-      "name": "HelloTalk — Chat, Speak & Learn Foreign Languages"
+      "name": "HelloTalk — Chat Speak & Learn Foreign Languages"
     },
     {
       "name": "Quizlet: Learn Languages & Vocab with Flashcards"
     },
     {
-      "name": "busuu: Learn Languages - Spanish, English & More"
+      "name": "busuu: Learn Languages - Spanish English & More"
     },
     {
       "name": "Rosetta Stone: Learn to Speak & Read New Languages"
@@ -2602,7 +2602,7 @@ const countries =
       "name": "Hotstar"
     },
     {
-      "name": "Peers.TV: broadcast TV channels First, Match TV, TNT ..."
+      "name": "Peers.TV: broadcast TV channels First Match TV TNT ..."
     },
     {
       "name": "The green alien dance"
@@ -2650,7 +2650,7 @@ const countries =
       "name": "🔥 Football Wallpapers 4K | Full HD Backgrounds 😍"
     },
     {
-      "name": "Movies by Flixster, with Rotten Tomatoes"
+      "name": "Movies by Flixster with Rotten Tomatoes"
     },
     {
       "name": "Low Poly – Puzzle art game"
@@ -2683,7 +2683,7 @@ const countries =
       "name": "Talking Ben the Dog"
     },
     {
-      "name": "Red Bull TV: Live Sports, Music & Entertainment"
+      "name": "Red Bull TV: Live Sports Music & Entertainment"
     },
     {
       "name": "Trailer Addict Movie Trailers"
@@ -2695,7 +2695,7 @@ const countries =
       "name": "Regal Cinemas"
     },
     {
-      "name": "Movies by Flixster, with Rotten Tomatoes"
+      "name": "Movies by Flixster with Rotten Tomatoes"
     },
     {
       "name": "Fandango Movies - Times + Tickets"
@@ -2725,7 +2725,7 @@ const countries =
       "name": "Animal Planet GO"
     },
     {
-      "name": "VRV: Anime, game videos & more"
+      "name": "VRV: Anime game videos & more"
     },
     {
       "name": "DramaFever: Stream Asian Drama Shows & Movies"
@@ -2770,7 +2770,7 @@ const countries =
       "name": "BET NOW - Watch Shows"
     },
     {
-      "name": "Hulu: Stream TV, Movies & more"
+      "name": "Hulu: Stream TV Movies & more"
     },
     {
       "name": "HBO NOW: Stream TV & Movies"
@@ -2815,7 +2815,7 @@ const countries =
       "name": "Nick"
     },
     {
-      "name": "Hulu: Stream TV, Movies & more"
+      "name": "Hulu: Stream TV Movies & more"
     },
     {
       "name": "FOX NOW - On Demand & Live TV"
@@ -2896,7 +2896,7 @@ const countries =
       "name": "STARZ"
     },
     {
-      "name": "Hulu: Stream TV, Movies & more"
+      "name": "Hulu: Stream TV Movies & more"
     },
     {
       "name": "Food Network"
@@ -2905,7 +2905,7 @@ const countries =
       "name": "FOX NOW - On Demand & Live TV"
     },
     {
-      "name": "Movies by Flixster, with Rotten Tomatoes"
+      "name": "Movies by Flixster with Rotten Tomatoes"
     },
     {
       "name": "Yidio: TV Show & Movie Guide"
@@ -3001,7 +3001,7 @@ const countries =
       "name": "Meme Creator"
     },
     {
-      "name": "Imgur: Find funny GIFs, memes & watch viral videos"
+      "name": "Imgur: Find funny GIFs memes & watch viral videos"
     },
     {
       "name": "Meme Generator"
@@ -3025,7 +3025,7 @@ const countries =
       "name": "Birdays - Birthday reminder"
     },
     {
-      "name": "StubHub - Tickets to Sports, Concerts & Events"
+      "name": "StubHub - Tickets to Sports Concerts & Events"
     },
     {
       "name": "Fever"
@@ -3034,7 +3034,7 @@ const countries =
       "name": "DroidAdmin for Android - Advice"
     },
     {
-      "name": "SeatGeek – Tickets to Sports, Concerts, Broadway"
+      "name": "SeatGeek – Tickets to Sports Concerts Broadway"
     },
     {
       "name": "my4D"
@@ -3061,10 +3061,10 @@ const countries =
       "name": "Mummatikabalkuragi"
     },
     {
-      "name": "Gametime - Tickets to Sports, Concerts, Theater"
+      "name": "Gametime - Tickets to Sports Concerts Theater"
     },
     {
-      "name": "PTI Flex Maker, Photo Frame Editor & Songs 2018"
+      "name": "PTI Flex Maker Photo Frame Editor & Songs 2018"
     },
     {
       "name": "Wipe out"
@@ -3127,7 +3127,7 @@ const countries =
       "name": "mobLee Events"
     },
     {
-      "name": "Xceed - Clubs, DJs, Festivals & Tickets"
+      "name": "Xceed - Clubs DJs Festivals & Tickets"
     },
     {
       "name": "AMM Events & CPD"
@@ -3238,7 +3238,7 @@ const countries =
       "name": "Zenith Bank Mobile App"
     },
     {
-      "name": "GCash - Buy Load, Pay Bills, Send Money"
+      "name": "GCash - Buy Load Pay Bills Send Money"
     },
     {
       "name": "Post Bank"
@@ -3271,13 +3271,13 @@ const countries =
       "name": "WiseBanyan - Invest For Free"
     },
     {
-      "name": "Robinhood - Investing, No Fees"
+      "name": "Robinhood - Investing No Fees"
     },
     {
       "name": "Wells Fargo Daily Change"
     },
     {
-      "name": "Even - organize your money, get paid early"
+      "name": "Even - organize your money get paid early"
     },
     {
       "name": "Digit Save Money Automatically"
@@ -3292,7 +3292,7 @@ const countries =
       "name": "Google Pay"
     },
     {
-      "name": "Money Lover: Expense Tracker, Budget Planner"
+      "name": "Money Lover: Expense Tracker Budget Planner"
     },
     {
       "name": "Expense IQ Money Manager"
@@ -3304,7 +3304,7 @@ const countries =
       "name": "Wells Fargo Daily Change"
     },
     {
-      "name": "Prism Pay Bills, Track Money, Personal Finance"
+      "name": "Prism Pay Bills Track Money Personal Finance"
     },
     {
       "name": "Monefy - Money Manager"
@@ -3334,13 +3334,13 @@ const countries =
       "name": "Branch"
     },
     {
-      "name": "WalletHub - Free Credit Score, Report & Monitoring"
+      "name": "WalletHub - Free Credit Score Report & Monitoring"
     },
     {
       "name": "CreditWise from Capital One"
     },
     {
-      "name": "NerdWallet: Personal Finance, Credit Score & Cash"
+      "name": "NerdWallet: Personal Finance Credit Score & Cash"
     },
     {
       "name": "Credit Karma"
@@ -3352,13 +3352,13 @@ const countries =
       "name": "Credit Sesame"
     },
     {
-      "name": "Mint: Budget, Bills, Finance"
+      "name": "Mint: Budget Bills Finance"
     },
     {
       "name": "Fresh EBT - Food Stamp Balance"
     },
     {
-      "name": "Hurdlr: Track Mileage, Expenses, and Log Receipts"
+      "name": "Hurdlr: Track Mileage Expenses and Log Receipts"
     },
     {
       "name": "Mobills: Budget Planner"
@@ -3394,7 +3394,7 @@ const countries =
       "name": "Stocks: Realtime Quotes Charts"
     },
     {
-      "name": "Stocks, Forex, Bitcoin, Ethereum: Portfolio & News"
+      "name": "Stocks Forex Bitcoin Ethereum: Portfolio & News"
     },
     {
       "name": "CNBC: Breaking Business News & Live Market Data"
@@ -3409,7 +3409,7 @@ const countries =
       "name": "E*TRADE Mobile"
     },
     {
-      "name": "Robinhood - Investing, No Fees"
+      "name": "Robinhood - Investing No Fees"
     },
     {
       "name": "MSN Money- Stock Quotes & News"
@@ -3424,7 +3424,7 @@ const countries =
       "name": "Yahoo Finance"
     },
     {
-      "name": "JStock - Stock Market, Portfolio & News"
+      "name": "JStock - Stock Market Portfolio & News"
     },
     {
       "name": "Digit Save Money Automatically"
@@ -3436,19 +3436,19 @@ const countries =
       "name": "Webull - Stock Quotes & Free Stock Trading"
     },
     {
-      "name": "Trading 212 - Forex, Stocks, CFDs"
+      "name": "Trading 212 - Forex Stocks CFDs"
     },
     {
-      "name": "Moneycontrol – Stocks, Sensex, Mutual Funds, IPO"
+      "name": "Moneycontrol – Stocks Sensex Mutual Funds IPO"
     },
     {
       "name": "Current debit card and app made for teens"
     },
     {
-      "name": "Money Lover: Expense Tracker, Budget Planner"
+      "name": "Money Lover: Expense Tracker Budget Planner"
     },
     {
-      "name": "Mint: Budget, Bills, Finance"
+      "name": "Mint: Budget Bills Finance"
     },
     {
       "name": "Betterment"
@@ -3604,7 +3604,7 @@ const countries =
       "name": "Chef - Recipes & Cooking"
     },
     {
-      "name": "Delivery Club-food delivery: pizza, sushi, burger, salad"
+      "name": "Delivery Club-food delivery: pizza sushi burger salad"
     },
     {
       "name": "HungerStation"
@@ -3649,7 +3649,7 @@ const countries =
       "name": "Om Waleed Sweets"
     },
     {
-      "name": "Eat Fast Prepare Without Internet"
+      "name": "Eat Fast Prepare \"Without Internet"
     },
     {
       "name": "Wendy’s – Food and Offers"
@@ -3697,7 +3697,7 @@ const countries =
       "name": "Cookpad"
     },
     {
-      "name": "BigOven Recipes, Meal Planner, Grocery List & More"
+      "name": "BigOven Recipes Meal Planner Grocery List & More"
     },
     {
       "name": "Postmates Food Delivery: Order Eats & Alcohol"
@@ -3721,7 +3721,7 @@ const countries =
       "name": "Grubhub: Food Delivery"
     },
     {
-      "name": "delivery.com: Order Food, Alcohol & Laundry"
+      "name": "delivery.com: Order Food Alcohol & Laundry"
     },
     {
       "name": "Postmates Food Delivery: Order Eats & Alcohol"
@@ -3796,7 +3796,7 @@ const countries =
       "name": "Step Counter - Pedometer Free & Calorie Counter"
     },
     {
-      "name": "Pedometer, Step Counter & Weight Loss Tracker App"
+      "name": "Pedometer Step Counter & Weight Loss Tracker App"
     },
     {
       "name": "Sportractive GPS Running Cycling Distance Tracker"
@@ -3907,19 +3907,19 @@ const countries =
       "name": "PumpUp — Fitness Community"
     },
     {
-      "name": "Home workouts - fat burning, abs, legs, arms,chest"
+      "name": "Home workouts - fat burning abs legs armschest"
     },
     {
       "name": "Running Weight Loss Walking Jogging Hiking FITAPP"
     },
     {
-      "name": "Strava Training: Track Running, Cycling & Swimming"
+      "name": "Strava Training: Track Running Cycling & Swimming"
     },
     {
       "name": "Workout Trainer: fitness coach"
     },
     {
-      "name": "Fabulous: Motivate Me! Meditate, Relax, Sleep"
+      "name": "Fabulous: Motivate Me! Meditate Relax Sleep"
     },
     {
       "name": "StrongLifts 5x5 Workout Gym Log & Personal Trainer"
@@ -3943,7 +3943,7 @@ const countries =
       "name": "Fitbit Coach"
     },
     {
-      "name": "JEFIT Workout Tracker, Weight Lifting, Gym Log App"
+      "name": "JEFIT Workout Tracker Weight Lifting Gym Log App"
     },
     {
       "name": "Map My Ride GPS Cycling Riding"
@@ -4003,7 +4003,7 @@ const countries =
       "name": "Relax with Andrew Johnson Lite"
     },
     {
-      "name": "Meditation Music - Relax, Yoga"
+      "name": "Meditation Music - Relax Yoga"
     },
     {
       "name": "Meditation Studio"
@@ -4021,7 +4021,7 @@ const countries =
       "name": "Simply Yoga - Fitness Trainer for Workouts & Poses"
     },
     {
-      "name": "Calm - Meditate, Sleep, Relax"
+      "name": "Calm - Meditate Sleep Relax"
     },
     {
       "name": "Relax Melodies P: Sleep Sounds"
@@ -4063,7 +4063,7 @@ const countries =
       "name": "Best Ovulation Tracker Fertility Calendar App Glow"
     },
     {
-      "name": "Eve Period Tracker - Love, Sex & Relationships App"
+      "name": "Eve Period Tracker - Love Sex & Relationships App"
     },
     {
       "name": "Fertility Friend Ovulation App"
@@ -4075,7 +4075,7 @@ const countries =
       "name": "Period Tracker"
     },
     {
-      "name": "Spot On Period, Birth Control, & Cycle Tracker"
+      "name": "Spot On Period Birth Control & Cycle Tracker"
     },
     {
       "name": "OvuView: Ovulation and Fertility"
@@ -4099,19 +4099,19 @@ const countries =
       "name": "Map My Hike GPS Hiking"
     },
     {
-      "name": "ViewRanger - Hike, Ride or Walk"
+      "name": "ViewRanger - Hike Ride or Walk"
     },
     {
       "name": "Runtastic Mountain Bike GPS Tracker"
     },
     {
-      "name": "AllTrails: Hiking, Running & Mountain Bike Trails"
+      "name": "AllTrails: Hiking Running & Mountain Bike Trails"
     },
     {
       "name": "Water Drink Reminder"
     },
     {
-      "name": "Zombies, Run! 5k Training (Free)"
+      "name": "Zombies Run! 5k Training (Free)"
     },
     {
       "name": "Tracks"
@@ -4126,10 +4126,10 @@ const countries =
       "name": "Seven - 7 Minute Workout Training Challenge"
     },
     {
-      "name": "YAZIO Calorie Counter, Nutrition Diary & Diet Plan"
+      "name": "YAZIO Calorie Counter Nutrition Diary & Diet Plan"
     },
     {
-      "name": "Technutri - calorie counter, diet and carb tracker"
+      "name": "Technutri - calorie counter diet and carb tracker"
     },
     {
       "name": "Couch to 5K by RunDouble"
@@ -4291,7 +4291,7 @@ const countries =
       "name": "White Sound Pro"
     },
     {
-      "name": "Meditation Music - Relax, Yoga"
+      "name": "Meditation Music - Relax Yoga"
     },
     {
       "name": "Insight Timer - Free Meditation App"
@@ -4309,13 +4309,13 @@ const countries =
       "name": "Prana Breath: Calm & Meditate"
     },
     {
-      "name": "Fabulous: Motivate Me! Meditate, Relax, Sleep"
+      "name": "Fabulous: Motivate Me! Meditate Relax Sleep"
     },
     {
       "name": "7 Cups: Anxiety & Stress Chat"
     },
     {
-      "name": "Calm - Meditate, Sleep, Relax"
+      "name": "Calm - Meditate Sleep Relax"
     },
     {
       "name": "Runtastic Sleep Better: Sleep Cycle & Smart Alarm"
@@ -4327,7 +4327,7 @@ const countries =
       "name": "Relax Melodies: Sleep Sounds"
     },
     {
-      "name": "Stop, Breathe & Think: Meditation & Mindfulness"
+      "name": "Stop Breathe & Think: Meditation & Mindfulness"
     },
     {
       "name": "Simple Habit Meditation"
@@ -4342,7 +4342,7 @@ const countries =
       "name": "Zillow: Find Houses for Sale & Apartments for Rent"
     },
     {
-      "name": "Viva Decora - Decoration, Photos, Architecture, House"
+      "name": "Viva Decora - Decoration Photos Architecture House"
     },
     {
       "name": "Apartments & Rentals - Zillow"
@@ -4354,13 +4354,13 @@ const countries =
       "name": "Real Estate sale & rent Trovit"
     },
     {
-      "name": "591 housing transactions - renting houses, middle-class houses, new cases, real-time registration, villas through the sky, apartment suites, MRT, buying a house selling prices, housing mortgages"
+      "name": "591 housing transactions - renting houses middle-class houses new cases real-time registration villas through the sky apartment suites MRT buying a house selling prices housing mortgages"
     },
     {
-      "name": "Homes.com 🏠 For Sale, Rent"
+      "name": "Homes.com 🏠 For Sale Rent"
     },
     {
-      "name": "CYANOGEN. Rent, buy an apartment, a room, a cottage 3+"
+      "name": "CYANOGEN. Rent buy an apartment a room a cottage 3+"
     },
     {
       "name": "Trulia Real Estate & Rentals"
@@ -4381,13 +4381,13 @@ const countries =
       "name": "LIFULL HOME'S"
     },
     {
-      "name": "Apartment List: Housing, Apt, and Property Rentals"
+      "name": "Apartment List: Housing Apt and Property Rentals"
     },
     {
       "name": "Gold Butterfly Keyboard Theme"
     },
     {
-      "name": "Apartment, Home Rental Search: Realtor.com Rentals"
+      "name": "Apartment Home Rental Search: Realtor.com Rentals"
     },
     {
       "name": "Living Smart Home"
@@ -4402,10 +4402,10 @@ const countries =
       "name": "Redfin Real Estate"
     },
     {
-      "name": "Domofond Real Estate. Buy, rent an apartment."
+      "name": "Domofond Real Estate. Buy rent an apartment."
     },
     {
-      "name": "realestate.com.au - Buy, Rent & Sell Property"
+      "name": "realestate.com.au - Buy Rent & Sell Property"
     },
     {
       "name": "Yes319 real price login query"
@@ -4456,7 +4456,7 @@ const countries =
       "name": "Home tips and advice"
     },
     {
-      "name": "N1.RU - Real estate: apartments, new buildings, lodging"
+      "name": "N1.RU - Real estate: apartments new buildings lodging"
     },
     {
       "name": "Ruler"
@@ -4465,7 +4465,7 @@ const countries =
       "name": "Home Decor Showpiece Art making: Medium Difficulty"
     },
     {
-      "name": "乐屋网: Buying a house, selling a house, renting a house"
+      "name": "乐屋网: Buying a house selling a house renting a house"
     },
     {
       "name": "Real estate court auction information site - Hyundai court auction"
@@ -4513,7 +4513,7 @@ const countries =
       "name": "Redfin Real Estate"
     },
     {
-      "name": "Apartment List: Housing, Apt, and Property Rentals"
+      "name": "Apartment List: Housing Apt and Property Rentals"
     },
     {
       "name": "Realtor.com Real Estate: Homes for Sale and Rent"
@@ -4699,7 +4699,7 @@ const countries =
       "name": "Talking Babsy Baby: Baby Games"
     },
     {
-      "name": "Black Wallpaper, AMOLED, Dark Background: Darkify"
+      "name": "Black Wallpaper AMOLED Dark Background: Darkify"
     },
     {
       "name": "Girly Wallpapers Backgrounds"
@@ -4840,7 +4840,7 @@ const countries =
       "name": "Big Days - Events Countdown"
     },
     {
-      "name": "Wedding Planner by WeddingWire - Venues, Checklist"
+      "name": "Wedding Planner by WeddingWire - Venues Checklist"
     },
     {
       "name": "Been Together (Ad) - D-day"
@@ -4954,7 +4954,7 @@ const countries =
       "name": "White Noise ~ Sleeping Sounds"
     },
     {
-      "name": "Journey - Diary, Journal"
+      "name": "Journey - Diary Journal"
     },
     {
       "name": "7 Day Food Journal Challenge"
@@ -5395,7 +5395,7 @@ const countries =
       "name": "Wordscapes"
     },
     {
-      "name": "MMX Hill Dash 2 – Offroad Truck, Car & Bike Racing"
+      "name": "MMX Hill Dash 2 – Offroad Truck Car & Bike Racing"
     },
     {
       "name": "Word Link"
@@ -5461,7 +5461,7 @@ const countries =
       "name": "Mafia City"
     },
     {
-      "name": "Cash, Inc. Money Clicker Game & Business Adventure"
+      "name": "Cash Inc. Money Clicker Game & Business Adventure"
     },
     {
       "name": "Dino War: Rise of Beasts"
@@ -6121,7 +6121,7 @@ const countries =
       "name": "Learn To Draw Glow Flower"
     },
     {
-      "name": "No. Color - Color by Number, Number Coloring"
+      "name": "No. Color - Color by Number Number Coloring"
     },
     {
       "name": "Bubble Shooter"
@@ -6463,7 +6463,7 @@ const countries =
       "name": "My Little Work – Garage"
     },
     {
-      "name": "Alizay, pirate girl"
+      "name": "Alizay pirate girl"
     },
     {
       "name": "Word Search Games in english"
@@ -6808,7 +6808,7 @@ const countries =
       "name": "Medical terms (OFFLINE)"
     },
     {
-      "name": "Cardiac diagnosis (heart rate, arrhythmia)"
+      "name": "Cardiac diagnosis (heart rate arrhythmia)"
     },
     {
       "name": "ERres- Emergency Medicine"
@@ -6823,7 +6823,7 @@ const countries =
       "name": "OptoDrum"
     },
     {
-      "name": "Migraine, Headache Diary HeadApp Pro"
+      "name": "Migraine Headache Diary HeadApp Pro"
     },
     {
       "name": "Blood Pressure Companion"
@@ -6832,7 +6832,7 @@ const countries =
       "name": "Visual Anatomy 2"
     },
     {
-      "name": "Muscle Premium - Human Anatomy, Kinesiology, Bones"
+      "name": "Muscle Premium - Human Anatomy Kinesiology Bones"
     },
     {
       "name": "CCHT PREP"
@@ -6877,7 +6877,7 @@ const countries =
       "name": "Manage My Pain Pro"
     },
     {
-      "name": "End Anxiety Pro - Stress, Panic Attack Help"
+      "name": "End Anxiety Pro - Stress Panic Attack Help"
     },
     {
       "name": "Acupuncture Assistant"
@@ -7126,7 +7126,7 @@ const countries =
       "name": "Diabetes:M"
     },
     {
-      "name": "Pzizz - Sleep, Nap, Focus"
+      "name": "Pzizz - Sleep Nap Focus"
     },
     {
       "name": "HESI A2 Pocket Prep"
@@ -7222,13 +7222,13 @@ const countries =
       "name": "PTA Content Master"
     },
     {
-      "name": "Muscle Premium - Human Anatomy, Kinesiology, Bones"
+      "name": "Muscle Premium - Human Anatomy Kinesiology Bones"
     },
     {
       "name": "Tinnitus Alleviator"
     },
     {
-      "name": "Cardiac diagnosis (heart rate, arrhythmia)"
+      "name": "Cardiac diagnosis (heart rate arrhythmia)"
     },
     {
       "name": "PMHNP-BC Pocket Prep"
@@ -7642,7 +7642,7 @@ const countries =
       "name": "Facebook Lite"
     },
     {
-      "name": "Messages, Text and Video Chat for Messenger"
+      "name": "Messages Text and Video Chat for Messenger"
     },
     {
       "name": "Tumblr"
@@ -7672,7 +7672,7 @@ const countries =
       "name": "Messenger Pro"
     },
     {
-      "name": "Free Messages, Video, Chat,Text for Messenger Plus"
+      "name": "Free Messages Video ChatText for Messenger Plus"
     },
     {
       "name": "Telegram X"
@@ -7687,7 +7687,7 @@ const countries =
       "name": "Who Viewed My Facebook Profile - Stalkers Visitors"
     },
     {
-      "name": "Hide Something - Photo, Video"
+      "name": "Hide Something - Photo Video"
     },
     {
       "name": "Love Sticker"
@@ -7696,7 +7696,7 @@ const countries =
       "name": "Web Browser & Fast Explorer"
     },
     {
-      "name": "LiveMe - Video chat, new friends, and make money"
+      "name": "LiveMe - Video chat new friends and make money"
     },
     {
       "name": "VidStatus app - Status Videos & Status Downloader"
@@ -7726,7 +7726,7 @@ const countries =
       "name": "MobilePatrol Public Safety App"
     },
     {
-      "name": "💘 WhatsLov: Smileys of love, stickers and GIF"
+      "name": "💘 WhatsLov: Smileys of love stickers and GIF"
     },
     {
       "name": "Phone Tracker : Family Locator"
@@ -7753,7 +7753,7 @@ const countries =
       "name": "Moment"
     },
     {
-      "name": "Text Me: Text Free, Call Free, Second Phone Number"
+      "name": "Text Me: Text Free Call Free Second Phone Number"
     },
     {
       "name": "Meetup"
@@ -7774,7 +7774,7 @@ const countries =
       "name": "textPlus: Free Text & Calls"
     },
     {
-      "name": "Free phone calls, free texting SMS on free number"
+      "name": "Free phone calls free texting SMS on free number"
     },
     {
       "name": "Tango - Live Video Broadcast"
@@ -7783,19 +7783,19 @@ const countries =
       "name": "MeetMe: Chat & Meet New People"
     },
     {
-      "name": "Tagged - Meet, Chat & Dating"
+      "name": "Tagged - Meet Chat & Dating"
     },
     {
-      "name": "ooVoo Video Calls, Messaging & Stories"
+      "name": "ooVoo Video Calls Messaging & Stories"
     },
     {
-      "name": "SayHi Chat, Meet New People"
+      "name": "SayHi Chat Meet New People"
     },
     {
       "name": "Whisper"
     },
     {
-      "name": "Tapatalk - 100,000+ Forums"
+      "name": "Tapatalk - 100000+ Forums"
     },
     {
       "name": "Tumblr"
@@ -7843,7 +7843,7 @@ const countries =
       "name": "Nextdoor - Local neighborhood news & classifieds"
     },
     {
-      "name": "SKOUT - Meet, Chat, Go Live"
+      "name": "SKOUT - Meet Chat Go Live"
     },
     {
       "name": "Banjo"
@@ -7855,7 +7855,7 @@ const countries =
       "name": "MeetMe: Chat & Meet New People"
     },
     {
-      "name": "ooVoo Video Calls, Messaging & Stories"
+      "name": "ooVoo Video Calls Messaging & Stories"
     },
     {
       "name": "Timehop"
@@ -7873,10 +7873,10 @@ const countries =
       "name": "Tango - Live Video Broadcast"
     },
     {
-      "name": "SayHi Chat, Meet New People"
+      "name": "SayHi Chat Meet New People"
     },
     {
-      "name": "Tapatalk - 100,000+ Forums"
+      "name": "Tapatalk - 100000+ Forums"
     },
     {
       "name": "Couple - Relationship App"
@@ -7897,7 +7897,7 @@ const countries =
       "name": "LOVOO"
     },
     {
-      "name": "Jaumo Dating, Flirt & Live Video"
+      "name": "Jaumo Dating Flirt & Live Video"
     },
     {
       "name": "Patook - make platonic friends"
@@ -7918,7 +7918,7 @@ const countries =
       "name": "magicApp Calling & Messaging"
     },
     {
-      "name": "Dating App, Flirt & Chat : W-Match"
+      "name": "Dating App Flirt & Chat : W-Match"
     },
     {
       "name": "uCiC- Videos and Photos on demand"
@@ -7933,28 +7933,28 @@ const countries =
       "name": "MeetMe: Chat & Meet New People"
     },
     {
-      "name": "Tagged - Meet, Chat & Dating"
+      "name": "Tagged - Meet Chat & Dating"
     },
     {
       "name": "LOVOO"
     },
     {
-      "name": "SKOUT - Meet, Chat, Go Live"
+      "name": "SKOUT - Meet Chat Go Live"
     },
     {
       "name": "Badoo - Free Chat & Dating App"
     },
     {
-      "name": "Jaumo Dating, Flirt & Live Video"
+      "name": "Jaumo Dating Flirt & Live Video"
     },
     {
-      "name": "Mico- Stranger Chat Random video Chat, Live, Meet"
+      "name": "Mico- Stranger Chat Random video Chat Live Meet"
     },
     {
-      "name": "SayHi Chat, Meet New People"
+      "name": "SayHi Chat Meet New People"
     },
     {
-      "name": "Waplog - Free Chat, Dating App, Meet Singles"
+      "name": "Waplog - Free Chat Dating App Meet Singles"
     },
     {
       "name": "Couple - Relationship App"
@@ -7981,7 +7981,7 @@ const countries =
       "name": "Kroger"
     },
     {
-      "name": "AliExpress - Smarter Shopping, Better Living"
+      "name": "AliExpress - Smarter Shopping Better Living"
     },
     {
       "name": "Walmart"
@@ -7990,7 +7990,7 @@ const countries =
       "name": "eBay: Buy & Sell this Summer - Discover Deals Now!"
     },
     {
-      "name": "letgo: Buy & Sell Used Stuff, Cars & Real Estate"
+      "name": "letgo: Buy & Sell Used Stuff Cars & Real Estate"
     },
     {
       "name": "Amazon Shopping"
@@ -8008,13 +8008,13 @@ const countries =
       "name": "Flipp - Weekly Shopping"
     },
     {
-      "name": "Shrimp skin shopping: spend less, buy better"
+      "name": "Shrimp skin shopping: spend less buy better"
     },
     {
       "name": "Lotte Home Shopping LOTTE Homeshopping"
     },
     {
-      "name": "Horn, free country requirements"
+      "name": "Horn free country requirements"
     },
     {
       "name": "Jiji.ng"
@@ -8056,16 +8056,16 @@ const countries =
       "name": "Mercado Libre: Find your favorite brands"
     },
     {
-      "name": "Carousell: Snap-Sell, Chat-Buy"
+      "name": "Carousell: Snap-Sell Chat-Buy"
     },
     {
       "name": "Blibli.com Online Shopping"
     },
     {
-      "name": "Club Factory Everything, Unbeaten Price"
+      "name": "Club Factory Everything Unbeaten Price"
     },
     {
-      "name": "Real Estate, Car, Shopping and Others"
+      "name": "Real Estate Car Shopping and Others"
     },
     {
       "name": "ZALORA Fashion Shopping"
@@ -8107,7 +8107,7 @@ const countries =
       "name": "Rossmann PL"
     },
     {
-      "name": "Jingdong - pick good things, go to Jingdong"
+      "name": "Jingdong - pick good things go to Jingdong"
     },
     {
       "name": "CheckPoints 🏆 Rewards App"
@@ -8134,7 +8134,7 @@ const countries =
       "name": "The Coupons App"
     },
     {
-      "name": "Shopkick: Free Gift Cards, Shop Rewards & Deals"
+      "name": "Shopkick: Free Gift Cards Shop Rewards & Deals"
     },
     {
       "name": "Wish - Shopping Made Fun"
@@ -8143,16 +8143,16 @@ const countries =
       "name": "Key Ring: Cards Coupon & Sales"
     },
     {
-      "name": "Ibotta: Cash Back Savings, Rewards & Coupons App"
+      "name": "Ibotta: Cash Back Savings Rewards & Coupons App"
     },
     {
-      "name": "RetailMeNot - Coupons, Deals & Discount Shopping"
+      "name": "RetailMeNot - Coupons Deals & Discount Shopping"
     },
     {
-      "name": "Groupon - Shop Deals, Discounts & Coupons"
+      "name": "Groupon - Shop Deals Discounts & Coupons"
     },
     {
-      "name": "Kohl's: Scan, Shop, Pay & Save"
+      "name": "Kohl's: Scan Shop Pay & Save"
     },
     {
       "name": "Stocard - Rewards Cards Wallet"
@@ -8182,7 +8182,7 @@ const countries =
       "name": "The Coupons App"
     },
     {
-      "name": "Shopular: Coupons, Weekly Ads & Shopping Deals"
+      "name": "Shopular: Coupons Weekly Ads & Shopping Deals"
     },
     {
       "name": "LivingSocial - Local Deals"
@@ -8191,13 +8191,13 @@ const countries =
       "name": "Coupons.com – Grocery Coupons & Cash Back Savings"
     },
     {
-      "name": "Ebates: Cash Back, Coupons, Rewards & Savings"
+      "name": "Ebates: Cash Back Coupons Rewards & Savings"
     },
     {
-      "name": "RetailMeNot - Coupons, Deals & Discount Shopping"
+      "name": "RetailMeNot - Coupons Deals & Discount Shopping"
     },
     {
-      "name": "Groupon - Shop Deals, Discounts & Coupons"
+      "name": "Groupon - Shop Deals Discounts & Coupons"
     },
     {
       "name": "FidMe Loyalty Cards & Deals at Grocery Supermarket"
@@ -8233,10 +8233,10 @@ const countries =
       "name": "Gyft - Mobile Gift Card Wallet"
     },
     {
-      "name": "Twice: Buy, Sell Clothing"
+      "name": "Twice: Buy Sell Clothing"
     },
     {
-      "name": "Shopkick: Free Gift Cards, Shop Rewards & Deals"
+      "name": "Shopkick: Free Gift Cards Shop Rewards & Deals"
     },
     {
       "name": "Slice: Package Tracker"
@@ -8245,13 +8245,13 @@ const countries =
       "name": "The Coupons App"
     },
     {
-      "name": "Shopular: Coupons, Weekly Ads & Shopping Deals"
+      "name": "Shopular: Coupons Weekly Ads & Shopping Deals"
     },
     {
       "name": "Wish - Shopping Made Fun"
     },
     {
-      "name": "Carousell: Snap-Sell, Chat-Buy"
+      "name": "Carousell: Snap-Sell Chat-Buy"
     },
     {
       "name": "LightInTheBox Online Shopping"
@@ -8266,10 +8266,10 @@ const countries =
       "name": "JackThreads: Men's Shopping"
     },
     {
-      "name": "Ibotta: Cash Back Savings, Rewards & Coupons App"
+      "name": "Ibotta: Cash Back Savings Rewards & Coupons App"
     },
     {
-      "name": "AliExpress - Smarter Shopping, Better Living"
+      "name": "AliExpress - Smarter Shopping Better Living"
     },
     {
       "name": "LivingSocial - Local Deals"
@@ -8302,7 +8302,7 @@ const countries =
       "name": "Wanelo Shopping"
     },
     {
-      "name": "RetailMeNot - Coupons, Deals & Discount Shopping"
+      "name": "RetailMeNot - Coupons Deals & Discount Shopping"
     },
     {
       "name": "Etsy: Handmade & Vintage Goods"
@@ -8317,7 +8317,7 @@ const countries =
       "name": "ASOS"
     },
     {
-      "name": "Overstock – Home Decor, Furniture Shopping"
+      "name": "Overstock – Home Decor Furniture Shopping"
     },
     {
       "name": "ZALORA Fashion Shopping"
@@ -8350,7 +8350,7 @@ const countries =
       "name": "Etsy: Handmade & Vintage Goods"
     },
     {
-      "name": "Groupon - Shop Deals, Discounts & Coupons"
+      "name": "Groupon - Shop Deals Discounts & Coupons"
     },
     {
       "name": "eBay: Buy & Sell this Summer - Discover Deals Now!"
@@ -8365,13 +8365,13 @@ const countries =
       "name": "ShopSavvy Barcode & QR Scanner"
     },
     {
-      "name": "Savory - Deals,Freebies,Sales"
+      "name": "Savory - DealsFreebiesSales"
     },
     {
       "name": "JackThreads: Men's Shopping"
     },
     {
-      "name": "AliExpress - Smarter Shopping, Better Living"
+      "name": "AliExpress - Smarter Shopping Better Living"
     },
     {
       "name": "Newegg Mobile"
@@ -8407,7 +8407,7 @@ const countries =
       "name": "TouchNote: Cards & Gifts"
     },
     {
-      "name": "Shutterfly: Free Prints, Photo Books, Cards, Gifts"
+      "name": "Shutterfly: Free Prints Photo Books Cards Gifts"
     },
     {
       "name": "FreePrints – Free Photos Delivered"
@@ -8416,10 +8416,10 @@ const countries =
       "name": "Groovebook Photo Books & Gifts"
     },
     {
-      "name": "Moony Lab - Print Photos, Books & Magnets ™"
+      "name": "Moony Lab - Print Photos Books & Magnets ™"
     },
     {
-      "name": "LALALAB prints your photos, photobooks and magnets"
+      "name": "LALALAB prints your photos photobooks and magnets"
     },
     {
       "name": "Snapfish"
@@ -8434,13 +8434,13 @@ const countries =
       "name": "HD Camera - Best Cam with filters & panorama"
     },
     {
-      "name": "Face Filter, Selfie Editor - Sweet Camera"
+      "name": "Face Filter Selfie Editor - Sweet Camera"
     },
     {
       "name": "LightX Photo Editor & Photo Effects"
     },
     {
-      "name": "Sweet Snap - live filter, Selfie photo edit"
+      "name": "Sweet Snap - live filter Selfie photo edit"
     },
     {
       "name": "Adobe Photoshop Express:Photo Editor Collage Maker"
@@ -8491,10 +8491,10 @@ const countries =
       "name": "Selfie Camera - Photo Editor & Filter & Sticker"
     },
     {
-      "name": "Sweet Snap Lite - live filter, Selfie photo editor"
+      "name": "Sweet Snap Lite - live filter Selfie photo editor"
     },
     {
-      "name": "Selfie Camera: Beauty Camera, Photo Editor,Collage"
+      "name": "Selfie Camera: Beauty Camera Photo EditorCollage"
     },
     {
       "name": "Night Photo Frame"
@@ -8521,7 +8521,7 @@ const countries =
       "name": "Pencil Photo Sketch-Sketching Drawing Photo Editor"
     },
     {
-      "name": "Pretty Makeup, Beauty Photo Editor & Snappy Camera"
+      "name": "Pretty Makeup Beauty Photo Editor & Snappy Camera"
     },
     {
       "name": "Photo Collage - Layout Editor"
@@ -8536,16 +8536,16 @@ const countries =
       "name": "Silent Camera [High Quality]"
     },
     {
-      "name": "Sweet Camera - Selfie Filters, Beauty Camera"
+      "name": "Sweet Camera - Selfie Filters Beauty Camera"
     },
     {
       "name": "Photo Frames"
     },
     {
-      "name": "Sweet Selfie - selfie camera, beauty cam, photo edit"
+      "name": "Sweet Selfie - selfie camera beauty cam photo edit"
     },
     {
-      "name": "Candy selfie - photo editor, live filter camera"
+      "name": "Candy selfie - photo editor live filter camera"
     },
     {
       "name": "YouCam Perfect - Selfie Photo Editor"
@@ -8572,7 +8572,7 @@ const countries =
       "name": "Flickr"
     },
     {
-      "name": "Shutterfly: Free Prints, Photo Books, Cards, Gifts"
+      "name": "Shutterfly: Free Prints Photo Books Cards Gifts"
     },
     {
       "name": "InstaBeauty -Makeup Selfie Cam"
@@ -8596,7 +8596,7 @@ const countries =
       "name": "Photo Editor-"
     },
     {
-      "name": "Cymera Camera- Photo Editor, Filter,Collage,Layout"
+      "name": "Cymera Camera- Photo Editor FilterCollageLayout"
     },
     {
       "name": "Wondershare PowerCam"
@@ -8614,10 +8614,10 @@ const countries =
       "name": "InstaSize Photo Filters & Collage Editor"
     },
     {
-      "name": "KVAD Camera +: Selfie, Photo Filter, Grids"
+      "name": "KVAD Camera +: Selfie Photo Filter Grids"
     },
     {
-      "name": "Candy Camera - selfie, beauty camera, photo editor"
+      "name": "Candy Camera - selfie beauty camera photo editor"
     },
     {
       "name": "Photo Editor"
@@ -8629,7 +8629,7 @@ const countries =
       "name": "InstaCam - Camera for Selfie"
     },
     {
-      "name": "Phogy, 3D Camera"
+      "name": "Phogy 3D Camera"
     },
     {
       "name": "Sweet Camera"
@@ -8665,7 +8665,7 @@ const countries =
       "name": "Flickr"
     },
     {
-      "name": "Shutterfly: Free Prints, Photo Books, Cards, Gifts"
+      "name": "Shutterfly: Free Prints Photo Books Cards Gifts"
     },
     {
       "name": "SuperPhoto - Effects & Filters"
@@ -8710,10 +8710,10 @@ const countries =
       "name": "Square InPic - Photo Editor & Collage Maker"
     },
     {
-      "name": "High-Speed Camera (GIF,Burst)"
+      "name": "High-Speed Camera (GIFBurst)"
     },
     {
-      "name": "Cymera Camera- Photo Editor, Filter,Collage,Layout"
+      "name": "Cymera Camera- Photo Editor FilterCollageLayout"
     },
     {
       "name": "Camera MX - Free Photo & Video Camera"
@@ -8728,7 +8728,7 @@ const countries =
       "name": "Retrica"
     },
     {
-      "name": "Candy Camera - selfie, beauty camera, photo editor"
+      "name": "Candy Camera - selfie beauty camera photo editor"
     },
     {
       "name": "VSCO"
@@ -8794,7 +8794,7 @@ const countries =
       "name": "Photo Editor by Aviary"
     },
     {
-      "name": "Video Editor Music,Cut,No Crop"
+      "name": "Video Editor MusicCutNo Crop"
     },
     {
       "name": "Pixlr – Free Photo Editor"
@@ -8806,7 +8806,7 @@ const countries =
       "name": "Photo Collage Maker"
     },
     {
-      "name": "Cymera Camera- Photo Editor, Filter,Collage,Layout"
+      "name": "Cymera Camera- Photo Editor FilterCollageLayout"
     },
     {
       "name": "Adobe Photoshop Express:Photo Editor Collage Maker"
@@ -8827,13 +8827,13 @@ const countries =
       "name": "InstaSize Photo Filters & Collage Editor"
     },
     {
-      "name": "Z Camera - Photo Editor, Beauty Selfie, Collage"
+      "name": "Z Camera - Photo Editor Beauty Selfie Collage"
     },
     {
-      "name": "PhotoGrid: Video & Pic Collage Maker, Photo Editor"
+      "name": "PhotoGrid: Video & Pic Collage Maker Photo Editor"
     },
     {
-      "name": "Candy Camera - selfie, beauty camera, photo editor"
+      "name": "Candy Camera - selfie beauty camera photo editor"
     },
     {
       "name": "YouCam Perfect - Selfie Photo Editor"
@@ -8866,7 +8866,7 @@ const countries =
       "name": "Collage&Add Stickers papelook"
     },
     {
-      "name": "Shutterfly: Free Prints, Photo Books, Cards, Gifts"
+      "name": "Shutterfly: Free Prints Photo Books Cards Gifts"
     },
     {
       "name": "Photo Collage - InstaMag"
@@ -8875,7 +8875,7 @@ const countries =
       "name": "BeautyPlus - Easy Photo Editor & Selfie Camera"
     },
     {
-      "name": "Meitu – Beauty Cam, Easy Photo Editor"
+      "name": "Meitu – Beauty Cam Easy Photo Editor"
     },
     {
       "name": "ESPN"
@@ -8893,7 +8893,7 @@ const countries =
       "name": "NFL"
     },
     {
-      "name": "theScore: Live Sports Scores, News, Stats & Videos"
+      "name": "theScore: Live Sports Scores News Stats & Videos"
     },
     {
       "name": "Onefootball - Soccer Scores"
@@ -8902,7 +8902,7 @@ const countries =
       "name": "Cristiano Ronaldo Wallpaper"
     },
     {
-      "name": "FIFA - Tournaments, Soccer News & Live Scores"
+      "name": "FIFA - Tournaments Soccer News & Live Scores"
     },
     {
       "name": "Futbol24"
@@ -8929,10 +8929,10 @@ const countries =
       "name": "Yahoo Fantasy Sports - #1 Rated Fantasy App"
     },
     {
-      "name": "CBS Sports App - Scores, News, Stats & Watch Live"
+      "name": "CBS Sports App - Scores News Stats & Watch Live"
     },
     {
-      "name": "The Team - Live Sport: football, tennis, rugby .."
+      "name": "The Team - Live Sport: football tennis rugby .."
     },
     {
       "name": "MARCA - Sports Leader Diary"
@@ -8944,7 +8944,7 @@ const countries =
       "name": "BBC Sport"
     },
     {
-      "name": "Foot Mercato: transfers, results, news, live"
+      "name": "Foot Mercato: transfers results news live"
     },
     {
       "name": "All Football - Latest News & Videos"
@@ -8962,7 +8962,7 @@ const countries =
       "name": "ESPN Fantasy Sports"
     },
     {
-      "name": "All Football GO- Live Score, Games"
+      "name": "All Football GO- Live Score Games"
     },
     {
       "name": "Top Mercato: football news"
@@ -8974,7 +8974,7 @@ const countries =
       "name": "Championat"
     },
     {
-      "name": "Bleacher Report: sports news, scores, & highlights"
+      "name": "Bleacher Report: sports news scores & highlights"
     },
     {
       "name": "Hovercraft Racer"
@@ -9022,10 +9022,10 @@ const countries =
       "name": "MUTV - Manchester United TV"
     },
     {
-      "name": "CBS Sports App - Scores, News, Stats & Watch Live"
+      "name": "CBS Sports App - Scores News Stats & Watch Live"
     },
     {
-      "name": "Hole19: Golf GPS App, Rangefinder & Scorecard"
+      "name": "Hole19: Golf GPS App Rangefinder & Scorecard"
     },
     {
       "name": "Yahoo Fantasy Sports - #1 Rated Fantasy App"
@@ -9037,16 +9037,16 @@ const countries =
       "name": "NFL"
     },
     {
-      "name": "Bleacher Report: sports news, scores, & highlights"
+      "name": "Bleacher Report: sports news scores & highlights"
     },
     {
       "name": "ESPN Fantasy Sports"
     },
     {
-      "name": "theScore: Live Sports Scores, News, Stats & Videos"
+      "name": "theScore: Live Sports Scores News Stats & Videos"
     },
     {
-      "name": "CBS Sports App - Scores, News, Stats & Watch Live"
+      "name": "CBS Sports App - Scores News Stats & Watch Live"
     },
     {
       "name": "WatchESPN"
@@ -9061,7 +9061,7 @@ const countries =
       "name": "MLB At Bat"
     },
     {
-      "name": "CBS Sports App - Scores, News, Stats & Watch Live"
+      "name": "CBS Sports App - Scores News Stats & Watch Live"
     },
     {
       "name": "NBC Sports"
@@ -9088,7 +9088,7 @@ const countries =
       "name": "The Rules of Golf"
     },
     {
-      "name": "GolfNow: Tee Time Deals at Golf Courses, Golf GPS"
+      "name": "GolfNow: Tee Time Deals at Golf Courses Golf GPS"
     },
     {
       "name": "Golf GPS by SwingxSwing"
@@ -9112,7 +9112,7 @@ const countries =
       "name": "Mobitee GPS Golf Free"
     },
     {
-      "name": "Hole19: Golf GPS App, Rangefinder & Scorecard"
+      "name": "Hole19: Golf GPS App Rangefinder & Scorecard"
     },
     {
       "name": "GolfLogix GPS + Putt Breaks"
@@ -9151,7 +9151,7 @@ const countries =
       "name": "US Open Tennis Championships 2018"
     },
     {
-      "name": "Bleacher Report: sports news, scores, & highlights"
+      "name": "Bleacher Report: sports news scores & highlights"
     },
     {
       "name": "Live Tennis Rankings / LTR"
@@ -9163,19 +9163,19 @@ const countries =
       "name": "Tennis Temple - Live Scores"
     },
     {
-      "name": "The Championships, Wimbledon 2018"
+      "name": "The Championships Wimbledon 2018"
     },
     {
-      "name": "theScore: Live Sports Scores, News, Stats & Videos"
+      "name": "theScore: Live Sports Scores News Stats & Videos"
     },
     {
-      "name": "CBS Sports App - Scores, News, Stats & Watch Live"
+      "name": "CBS Sports App - Scores News Stats & Watch Live"
     },
     {
       "name": "Tennis 24 - tennis live scores"
     },
     {
-      "name": "Yahoo Sports - scores, stats, news, & highlights"
+      "name": "Yahoo Sports - scores stats news & highlights"
     },
     {
       "name": "Tennis News and Scores"
@@ -9184,28 +9184,28 @@ const countries =
       "name": "ESPN"
     },
     {
-      "name": "Bleacher Report: sports news, scores, & highlights"
+      "name": "Bleacher Report: sports news scores & highlights"
     },
     {
       "name": "MLB At Bat"
     },
     {
-      "name": "theScore: Live Sports Scores, News, Stats & Videos"
+      "name": "theScore: Live Sports Scores News Stats & Videos"
     },
     {
-      "name": "CBS Sports App - Scores, News, Stats & Watch Live"
+      "name": "CBS Sports App - Scores News Stats & Watch Live"
     },
     {
       "name": "MSN Sports - Scores & Schedule"
     },
     {
-      "name": "Yahoo Sports - scores, stats, news, & highlights"
+      "name": "Yahoo Sports - scores stats news & highlights"
     },
     {
       "name": "WatchESPN"
     },
     {
-      "name": "FOX Sports: Live Streaming, Scores & News"
+      "name": "FOX Sports: Live Streaming Scores & News"
     },
     {
       "name": "FotMob - Live Soccer Scores"
@@ -9241,13 +9241,13 @@ const countries =
       "name": "US Open Tennis Championships 2018"
     },
     {
-      "name": "Bleacher Report: sports news, scores, & highlights"
+      "name": "Bleacher Report: sports news scores & highlights"
     },
     {
       "name": "MLB At Bat"
     },
     {
-      "name": "FIFA - Tournaments, Soccer News & Live Scores"
+      "name": "FIFA - Tournaments Soccer News & Live Scores"
     },
     {
       "name": "365Scores - Live Scores"
@@ -9256,7 +9256,7 @@ const countries =
       "name": "Cricbuzz - Live Cricket Scores & News"
     },
     {
-      "name": "theScore: Live Sports Scores, News, Stats & Videos"
+      "name": "theScore: Live Sports Scores News Stats & Videos"
     },
     {
       "name": "Fantasy Football & NFL News"
@@ -9271,10 +9271,10 @@ const countries =
       "name": "BBC Sport"
     },
     {
-      "name": "CBS Sports App - Scores, News, Stats & Watch Live"
+      "name": "CBS Sports App - Scores News Stats & Watch Live"
     },
     {
-      "name": "Yahoo Sports - scores, stats, news, & highlights"
+      "name": "Yahoo Sports - scores stats news & highlights"
     },
     {
       "name": "NHL"
@@ -9289,10 +9289,10 @@ const countries =
       "name": "MLB Ballpark"
     },
     {
-      "name": "Univision Deportes: Liga MX, MLS, Fútbol Live"
+      "name": "Univision Deportes: Liga MX MLS Fútbol Live"
     },
     {
-      "name": "FOX Sports: Live Streaming, Scores & News"
+      "name": "FOX Sports: Live Streaming Scores & News"
     },
     {
       "name": "Fantasy Football"
@@ -9307,7 +9307,7 @@ const countries =
       "name": "Real Basketball"
     },
     {
-      "name": "Expedia Hotels, Flights & Car Rental Travel Deals"
+      "name": "Expedia Hotels Flights & Car Rental Travel Deals"
     },
     {
       "name": "trivago: Hotels & Travel"
@@ -9325,7 +9325,7 @@ const countries =
       "name": "CityMaps2Go Plan Trips Travel Guide Offline Maps"
     },
     {
-      "name": "KAYAK Flights, Hotels & Cars"
+      "name": "KAYAK Flights Hotels & Cars"
     },
     {
       "name": "Skyscanner"
@@ -9373,7 +9373,7 @@ const countries =
       "name": "Southwest Airlines"
     },
     {
-      "name": "AT&T Navigator: Maps, Traffic"
+      "name": "AT&T Navigator: Maps Traffic"
     },
     {
       "name": "VZ Navigator"
@@ -9388,7 +9388,7 @@ const countries =
       "name": "AirAsia"
     },
     {
-      "name": "Expedia Hotels, Flights & Car Rental Travel Deals"
+      "name": "Expedia Hotels Flights & Car Rental Travel Deals"
     },
     {
       "name": "Goibibo - Flight Hotel Bus Car IRCTC Booking App"
@@ -9412,7 +9412,7 @@ const countries =
       "name": "TripAdvisor Hotels Flights Restaurants Attractions"
     },
     {
-      "name": "HSL - Tickets, route planner and information"
+      "name": "HSL - Tickets route planner and information"
     },
     {
       "name": "Wisepilot for XPERIA™"
@@ -9424,7 +9424,7 @@ const countries =
       "name": "MAIN"
     },
     {
-      "name": "Yoriza Pension - travel, lodging, pension, camping, caravan, pool villas accommodation discount"
+      "name": "Yoriza Pension - travel lodging pension camping caravan pool villas accommodation discount"
     },
     {
       "name": "Foursquare Swarm: Check In"
@@ -9436,7 +9436,7 @@ const countries =
       "name": "Flightradar24 Flight Tracker"
     },
     {
-      "name": "Yatra - Flights, Hotels, Bus, Trains & Cabs"
+      "name": "Yatra - Flights Hotels Bus Trains & Cabs"
     },
     {
       "name": "SNCF"
@@ -9463,7 +9463,7 @@ const countries =
       "name": "Gaode Map"
     },
     {
-      "name": "Priceline Hotel Deals, Rental Cars & Flights"
+      "name": "Priceline Hotel Deals Rental Cars & Flights"
     },
     {
       "name": "TravelPirates"
@@ -9508,7 +9508,7 @@ const countries =
       "name": "Urbanspoon Restaurant Reviews"
     },
     {
-      "name": "Yelp: Food, Shopping, Services Nearby"
+      "name": "Yelp: Food Shopping Services Nearby"
     },
     {
       "name": "TripAdvisor Hotels Flights Restaurants Attractions"
@@ -9520,13 +9520,13 @@ const countries =
       "name": "Hipmunk Hotels & Flights"
     },
     {
-      "name": "Priceline Hotel Deals, Rental Cars & Flights"
+      "name": "Priceline Hotel Deals Rental Cars & Flights"
     },
     {
       "name": "United Airlines"
     },
     {
-      "name": "Expedia Hotels, Flights & Car Rental Travel Deals"
+      "name": "Expedia Hotels Flights & Car Rental Travel Deals"
     },
     {
       "name": "Skiplagged — Exclusive Flights & Hotels"
@@ -9544,7 +9544,7 @@ const countries =
       "name": "Cheap Flights & Hotels momondo"
     },
     {
-      "name": "CheapTickets – Hotels, Flights & Travel Deals"
+      "name": "CheapTickets – Hotels Flights & Travel Deals"
     },
     {
       "name": "JetBlue"
@@ -9562,7 +9562,7 @@ const countries =
       "name": "The Emirates App"
     },
     {
-      "name": "KAYAK Flights, Hotels & Cars"
+      "name": "KAYAK Flights Hotels & Cars"
     },
     {
       "name": "American Airlines"
@@ -9574,7 +9574,7 @@ const countries =
       "name": "KLM - Royal Dutch Airlines"
     },
     {
-      "name": "Orbitz - Hotels, Flights & Package Deals"
+      "name": "Orbitz - Hotels Flights & Package Deals"
     },
     {
       "name": "Skyscanner"
@@ -9601,7 +9601,7 @@ const countries =
       "name": "Hotwire Hotel & Car Rental App"
     },
     {
-      "name": "Priceline Hotel Deals, Rental Cars & Flights"
+      "name": "Priceline Hotel Deals Rental Cars & Flights"
     },
     {
       "name": "HOTEL DEALS"
@@ -9610,16 +9610,16 @@ const countries =
       "name": "trivago: Hotels & Travel"
     },
     {
-      "name": "Expedia Hotels, Flights & Car Rental Travel Deals"
+      "name": "Expedia Hotels Flights & Car Rental Travel Deals"
     },
     {
       "name": "HomeAway Vacation Rentals"
     },
     {
-      "name": "KAYAK Flights, Hotels & Cars"
+      "name": "KAYAK Flights Hotels & Cars"
     },
     {
-      "name": "Orbitz - Hotels, Flights & Package Deals"
+      "name": "Orbitz - Hotels Flights & Package Deals"
     },
     {
       "name": "Skyscanner"
@@ -9745,7 +9745,7 @@ const countries =
       "name": "My Telcel"
     },
     {
-      "name": "Calculator - free calculator, multi calculator app"
+      "name": "Calculator - free calculator multi calculator app"
     },
     {
       "name": "ASUS Sound Recorder"
@@ -9763,13 +9763,13 @@ const countries =
       "name": "ZenUI Help"
     },
     {
-      "name": "Calculator - free calculator ,multi calculator app"
+      "name": "Calculator - free calculator multi calculator app"
     },
     {
       "name": "SHAREit - Transfer & Share"
     },
     {
-      "name": "ZenUI Keyboard – Emoji, Theme"
+      "name": "ZenUI Keyboard – Emoji Theme"
     },
     {
       "name": "Files Go by Google: Free up space on your phone"
@@ -9880,7 +9880,7 @@ const countries =
       "name": "Flashlight"
     },
     {
-      "name": "CM Flashlight (Compass, SOS)"
+      "name": "CM Flashlight (Compass SOS)"
     },
     {
       "name": "Flashlight HD LED"
@@ -9964,7 +9964,7 @@ const countries =
       "name": "OpenVPN Connect – Fast & Safe SSL VPN Client"
     },
     {
-      "name": "VPN - Fast, Secure & Unlimited WiFi with VyprVPN"
+      "name": "VPN - Fast Secure & Unlimited WiFi with VyprVPN"
     },
     {
       "name": "FREEDOME VPN Unlimited anonymous Wifi Security"
@@ -9985,10 +9985,10 @@ const countries =
       "name": "Smart Keyboard Trial"
     },
     {
-      "name": "Emoji keyboard - Cute Emoticons, GIF, Stickers"
+      "name": "Emoji keyboard - Cute Emoticons GIF Stickers"
     },
     {
-      "name": "GO Keyboard - Cute Emojis, Themes and GIFs"
+      "name": "GO Keyboard - Cute Emojis Themes and GIFs"
     },
     {
       "name": "Google Handwriting Input"
@@ -10066,7 +10066,7 @@ const countries =
       "name": "ZEDGE™ Ringtones & Wallpapers"
     },
     {
-      "name": "XOS - Launcher,Theme,Wallpaper"
+      "name": "XOS - LauncherThemeWallpaper"
     },
     {
       "name": "3D Live Neon Weed Launcher"
@@ -10081,7 +10081,7 @@ const countries =
       "name": "Launcher"
     },
     {
-      "name": "CM Launcher 3D - Theme, Wallpapers, Efficient"
+      "name": "CM Launcher 3D - Theme Wallpapers Efficient"
     },
     {
       "name": "4K Wallpapers and Ultra HD Backgrounds"
@@ -10099,7 +10099,7 @@ const countries =
       "name": "ZenUI Launcher"
     },
     {
-      "name": "Color Call - Caller Screen, LED Flash"
+      "name": "Color Call - Caller Screen LED Flash"
     },
     {
       "name": "New Launcher 2018"
@@ -10108,7 +10108,7 @@ const countries =
       "name": "Diamond Zipper Lock Screen"
     },
     {
-      "name": "Emoji Keyboard - Cute Emoji,GIF, Sticker, Emoticon"
+      "name": "Emoji Keyboard - Cute EmojiGIF Sticker Emoticon"
     },
     {
       "name": "3D Blue Glass Water Keyboard Theme"
@@ -10123,13 +10123,13 @@ const countries =
       "name": "New 2018 Keyboard"
     },
     {
-      "name": "APUS Launcher - Theme, Wallpaper, Hide Apps"
+      "name": "APUS Launcher - Theme Wallpaper Hide Apps"
     },
     {
       "name": "ZenUI Themes – Stylish Themes"
     },
     {
-      "name": "Keyboard - wallpapers , photos"
+      "name": "Keyboard - wallpapers  photos"
     },
     {
       "name": "Lovely Cute Pink Kitty Cat Keyboard Theme"
@@ -10156,7 +10156,7 @@ const countries =
       "name": "ASUS Cover for ZenFone 2"
     },
     {
-      "name": "Hola Launcher- Theme,Wallpaper"
+      "name": "Hola Launcher- ThemeWallpaper"
     },
     {
       "name": "OnePlus Icon Pack - Square"
@@ -10168,7 +10168,7 @@ const countries =
       "name": "Pink Diamond Princess Keyboard Theme"
     },
     {
-      "name": "Wallpapers HD, 4K Backgrounds"
+      "name": "Wallpapers HD 4K Backgrounds"
     },
     {
       "name": "Photo Lock App - Hide Pictures & Videos"
@@ -10189,7 +10189,7 @@ const countries =
       "name": "Water Droplets Keyboard Theme"
     },
     {
-      "name": "FUN Keyboard – Emoji Keyboard, Sticker,Theme & GIF"
+      "name": "FUN Keyboard – Emoji Keyboard StickerTheme & GIF"
     },
     {
       "name": "Freeme Launcher—Stylish Theme"
@@ -10330,7 +10330,7 @@ const countries =
       "name": "Smart Launcher Pro 3"
     },
     {
-      "name": "iKeyboard - emoji, emoticons"
+      "name": "iKeyboard - emoji emoticons"
     },
     {
       "name": "Simple Neon Blue Future Tech Keyboard Theme"
@@ -10339,7 +10339,7 @@ const countries =
       "name": "ai.type Free Emoji Keyboard"
     },
     {
-      "name": "GO Keyboard - Emoticon keyboard, Free Theme, GIF"
+      "name": "GO Keyboard - Emoticon keyboard Free Theme GIF"
     },
     {
       "name": "TouchPal Purple Butterfly Theme"
@@ -10354,13 +10354,13 @@ const countries =
       "name": "Microsoft Word"
     },
     {
-      "name": "All-In-One Toolbox: Cleaner, Booster, App Manager"
+      "name": "All-In-One Toolbox: Cleaner Booster App Manager"
     },
     {
       "name": "Adobe Acrobat Reader"
     },
     {
-      "name": "AVG Cleaner – Speed, Battery & Memory Booster"
+      "name": "AVG Cleaner – Speed Battery & Memory Booster"
     },
     {
       "name": "Google Drive"
@@ -10447,7 +10447,7 @@ const countries =
       "name": "Content Transfer"
     },
     {
-      "name": "Evernote – Organizer, Planner for Notes & Memos"
+      "name": "Evernote – Organizer Planner for Notes & Memos"
     },
     {
       "name": "HTC Mail"
@@ -10465,7 +10465,7 @@ const countries =
       "name": "Microsoft Translator"
     },
     {
-      "name": "My Airtel-Online Recharge, Pay Bill, Wallet, UPI"
+      "name": "My Airtel-Online Recharge Pay Bill Wallet UPI"
     },
     {
       "name": "Samsung Notes"
@@ -10498,7 +10498,7 @@ const countries =
       "name": "Loop - Habit Tracker"
     },
     {
-      "name": "TickTick: To Do List with Reminder, Day Planner"
+      "name": "TickTick: To Do List with Reminder Day Planner"
     },
     {
       "name": "Keeper: Free Password Manager & Secure Vault"
@@ -10525,13 +10525,13 @@ const countries =
       "name": "Google Keep"
     },
     {
-      "name": "Any.do: To-do list, Calendar, Reminders & Planner"
+      "name": "Any.do: To-do list Calendar Reminders & Planner"
     },
     {
       "name": "Trello"
     },
     {
-      "name": "Evernote – Organizer, Planner for Notes & Memos"
+      "name": "Evernote – Organizer Planner for Notes & Memos"
     },
     {
       "name": "Easy Voice Recorder"
@@ -10588,13 +10588,13 @@ const countries =
       "name": "Google Docs"
     },
     {
-      "name": "Polaris Office - Word, Docs, Sheets, Slide, PDF"
+      "name": "Polaris Office - Word Docs Sheets Slide PDF"
     },
     {
       "name": "Microsoft PowerPoint"
     },
     {
-      "name": "WPS Office - Word, Docs, PDF, Note, Slide & Sheet"
+      "name": "WPS Office - Word Docs PDF Note Slide & Sheet"
     },
     {
       "name": "Microsoft OneNote"
@@ -10633,7 +10633,7 @@ const countries =
       "name": "Notepad & To do list"
     },
     {
-      "name": "JotterPad - Writer, Screenplay, Novel"
+      "name": "JotterPad - Writer Screenplay Novel"
     },
     {
       "name": "Google Keep"
@@ -10642,10 +10642,10 @@ const countries =
       "name": "Wunderlist: To-Do List & Tasks"
     },
     {
-      "name": "Evernote – Organizer, Planner for Notes & Memos"
+      "name": "Evernote – Organizer Planner for Notes & Memos"
     },
     {
-      "name": "Any.do: To-do list, Calendar, Reminders & Planner"
+      "name": "Any.do: To-do list Calendar Reminders & Planner"
     },
     {
       "name": "Todoist: To-do lists for task management & errands"
@@ -10822,10 +10822,10 @@ const countries =
       "name": "Listen to the story~The Story of the Fairy Tales"
     },
     {
-      "name": "Amazon FreeTime – Kids’ Videos, Books, & TV shows"
+      "name": "Amazon FreeTime – Kids’ Videos Books & TV shows"
     },
     {
-      "name": "Kids Fang - Infant Videos, Children's Songs, Fairy Tales, Lullaby Collections"
+      "name": "Kids Fang - Infant Videos Children's Songs Fairy Tales Lullaby Collections"
     },
     {
       "name": "PPS Online"
@@ -10891,7 +10891,7 @@ const countries =
       "name": "Live Weather Pro"
     },
     {
-      "name": "Weather by WeatherBug: Forecast, Radar & Alerts"
+      "name": "Weather by WeatherBug: Forecast Radar & Alerts"
     },
     {
       "name": "weather - weather forecast"
@@ -10948,7 +10948,7 @@ const countries =
       "name": "Klart.se - Sweden's best weather"
     },
     {
-      "name": "GO Weather - Widget, Theme, Wallpaper, Efficient"
+      "name": "GO Weather - Widget Theme Wallpaper Efficient"
     },
     {
       "name": "Info BMKG"
@@ -11047,10 +11047,10 @@ const countries =
       "name": "HD Movie Video Player"
     },
     {
-      "name": "YouCut - Video Editor & Video Maker, No Watermark"
+      "name": "YouCut - Video Editor & Video Maker No Watermark"
     },
     {
-      "name": "Video Editor,Crop Video,Movie Video,Music,Effects"
+      "name": "Video EditorCrop VideoMovie VideoMusicEffects"
     },
     {
       "name": "YouTube Studio"
@@ -11104,7 +11104,7 @@ const countries =
       "name": "HTC Gallery"
     },
     {
-      "name": "PowerDirector Video Editor App: 4K, Slow Mo & More"
+      "name": "PowerDirector Video Editor App: 4K Slow Mo & More"
     },
     {
       "name": "Cartoon Network App"
@@ -11140,16 +11140,16 @@ const countries =
       "name": "Video Editor"
     },
     {
-      "name": "Omlet Arcade - Stream, Meet, Play"
+      "name": "Omlet Arcade - Stream Meet Play"
     },
     {
       "name": "VUE: video editor & camcorder"
     },
     {
-      "name": "Fox News – Breaking News, Live Video & News Alerts"
+      "name": "Fox News – Breaking News Live Video & News Alerts"
     },
     {
-      "name": "NEW - Read Newspaper, News 24h"
+      "name": "NEW - Read Newspaper News 24h"
     },
     {
       "name": "BaBe + - Indonesian News"
@@ -11161,13 +11161,13 @@ const countries =
       "name": "BBC News"
     },
     {
-      "name": "Free TV Shows App:News, TV Series, Episode, Movies"
+      "name": "Free TV Shows App:News TV Series Episode Movies"
     },
     {
       "name": "News24"
     },
     {
-      "name": "Le Monde, the continuous news"
+      "name": "Le Monde the continuous news"
     },
     {
       "name": "Wireless news"
@@ -11188,7 +11188,7 @@ const countries =
       "name": "detikcom - Latest & Most Complete News"
     },
     {
-      "name": "Dailyhunt (Newshunt) - Latest News, Viral Videos"
+      "name": "Dailyhunt (Newshunt) - Latest News Viral Videos"
     },
     {
       "name": "BaBe Lite - Read Quota Saving News"
@@ -11200,10 +11200,10 @@ const countries =
       "name": "Bengali Newspaper - The first L."
     },
     {
-      "name": "Read- Latest News, Information, Gossip and Politics"
+      "name": "Read- Latest News Information Gossip and Politics"
     },
     {
-      "name": "Reddit: Social News, Trending Memes & Funny Videos"
+      "name": "Reddit: Social News Trending Memes & Funny Videos"
     },
     {
       "name": "BBC Persian | BBC Farsi News"
@@ -11215,19 +11215,19 @@ const countries =
       "name": "Opera News - Trending news and videos"
     },
     {
-      "name": "Topbuzz: Breaking News, Videos & Funny GIFs"
+      "name": "Topbuzz: Breaking News Videos & Funny GIFs"
     },
     {
       "name": "Twitter"
     },
     {
-      "name": "Pulse Nabd - World News, Urgent"
+      "name": "Pulse Nabd - World News Urgent"
     },
     {
       "name": "Asahi Shimbun Digital"
     },
     {
-      "name": "Breaking News, Local news, Attacks and Alerts Free"
+      "name": "Breaking News Local news Attacks and Alerts Free"
     },
     {
       "name": "WE"
@@ -11239,16 +11239,16 @@ const countries =
       "name": "Microsoft News"
     },
     {
-      "name": "Onet - news, weather, sport"
+      "name": "Onet - news weather sport"
     },
     {
-      "name": "Vietnam Today - Read online newspapers, the hottest news 24h"
+      "name": "Vietnam Today - Read online newspapers the hottest news 24h"
     },
     {
       "name": "Apple Daily Apple News"
     },
     {
-      "name": "The Report, Fox, Breitbart - Conservative News"
+      "name": "The Report Fox Breitbart - Conservative News"
     },
     {
       "name": "РИА Новости"
@@ -11272,7 +11272,7 @@ const countries =
       "name": "Loop - Caribbean Local News"
     },
     {
-      "name": "AD - News, Sports, Region & Entertainment"
+      "name": "AD - News Sports Region & Entertainment"
     },
     {
       "name": "Podcast Addict"
@@ -11293,13 +11293,13 @@ const countries =
       "name": "Dezeen Magazine RSS Reader"
     },
     {
-      "name": "issuu - Read Magazines, Catalogs, Newspapers."
+      "name": "issuu - Read Magazines Catalogs Newspapers."
     },
     {
       "name": "Google News"
     },
     {
-      "name": "BuzzFeed: News, Tasty, Quizzes"
+      "name": "BuzzFeed: News Tasty Quizzes"
     },
     {
       "name": "Flipboard: News For Our Time"
@@ -11356,7 +11356,7 @@ const countries =
       "name": "Bloomberg: Market & Financial News"
     },
     {
-      "name": "Fox News – Breaking News, Live Video & News Alerts"
+      "name": "Fox News – Breaking News Live Video & News Alerts"
     },
     {
       "name": "Haystack TV: Local & World News - Free"
@@ -11407,7 +11407,7 @@ const countries =
       "name": "NPR News"
     },
     {
-      "name": "Fox News – Breaking News, Live Video & News Alerts"
+      "name": "Fox News – Breaking News Live Video & News Alerts"
     },
     {
       "name": "CBS News"
@@ -11440,7 +11440,7 @@ const countries =
       "name": "Pocket"
     },
     {
-      "name": "AOL - News, Mail & Video"
+      "name": "AOL - News Mail & Video"
     },
     {
       "name": "NYTimes - Latest News"
@@ -11455,22 +11455,22 @@ const countries =
       "name": "BaconReader for Reddit"
     },
     {
-      "name": "BuzzFeed: News, Tasty, Quizzes"
+      "name": "BuzzFeed: News Tasty Quizzes"
     },
     {
       "name": "Flipboard: News For Our Time"
     },
     {
-      "name": "Waze - GPS, Maps, Traffic Alerts & Live Navigation"
+      "name": "Waze - GPS Maps Traffic Alerts & Live Navigation"
     },
     {
-      "name": "T map (te map, T map, navigation)"
+      "name": "T map (te map T map navigation)"
     },
     {
-      "name": "MapQuest: Directions, Maps, GPS & Navigation"
+      "name": "MapQuest: Directions Maps GPS & Navigation"
     },
     {
-      "name": "Yahoo! transit guide free timetable, operation information, transfer search"
+      "name": "Yahoo! transit guide free timetable operation information transfer search"
     },
     {
       "name": "乗換NAVITIME　Timetable & Route Search in Japan Tokyo"
@@ -11506,16 +11506,16 @@ const countries =
       "name": "Compass"
     },
     {
-      "name": "Mappy - Plan, route comparison, GPS"
+      "name": "Mappy - Plan route comparison GPS"
     },
     {
       "name": "Gps Route Finder"
     },
     {
-      "name": "My Location: GPS Maps, Share & Save Places"
+      "name": "My Location: GPS Maps Share & Save Places"
     },
     {
-      "name": "Yanosik: antyradar, traffic jams, navigation, camera"
+      "name": "Yanosik: \"antyradar\" traffic jams navigation camera"
     },
     {
       "name": "NAVITIME - Map & Transfer Navi"
@@ -11536,7 +11536,7 @@ const countries =
       "name": "Soviet Military Maps Free"
     },
     {
-      "name": "Truck Car Navi by Navitime Large size car, traffic jam, traffic closure, live camera, typhoon / precipitation map"
+      "name": "Truck Car Navi by Navitime Large size car traffic jam traffic closure live camera typhoon / precipitation map"
     },
     {
       "name": "Sentin Information Map"
@@ -11563,7 +11563,7 @@ const countries =
       "name": "SBB Mobile"
     },
     {
-      "name": "GPS Speedometer, Distance Meter"
+      "name": "GPS Speedometer Distance Meter"
     },
     {
       "name": "Blitzer.de"
@@ -11599,7 +11599,7 @@ const countries =
       "name": "Moovit: Bus Time & Train Time Live Info"
     },
     {
-      "name": "Dynavix - Navigation, Maps, Traffic data & Cameras"
+      "name": "Dynavix - Navigation Maps Traffic data & Cameras"
     },
     {
       "name": "National Rail Enquiries"
@@ -12001,7 +12001,7 @@ const countries =
       "name": "Learn C++"
     },
     {
-      "name": "C Launcher: Themes, Wallpapers, DIY, Smart, Clean"
+      "name": "C Launcher: Themes Wallpapers DIY Smart Clean"
     },
     {
       "name": "C Programming Zone"
@@ -12046,7 +12046,7 @@ const countries =
       "name": "Learn C Programming (Examples) (OFFLINE)"
     },
     {
-      "name": "C Programming - Learn Code, Theory & Discuss"
+      "name": "C Programming - Learn Code Theory & Discuss"
     },
     {
       "name": "Expert C Programming - Learn C Coding Easily"
@@ -12115,7 +12115,7 @@ const countries =
       "name": "Fruit Ninja®"
     },
     {
-      "name": "DU Recorder – Screen Recorder, Video Editor, Live"
+      "name": "DU Recorder – Screen Recorder Video Editor Live"
     },
     {
       "name": "Google Duo - High Quality Video Calls"
@@ -12253,7 +12253,7 @@ const countries =
       "name": "Amazon Kindle"
     },
     {
-      "name": "Evernote – Organizer, Planner for Notes & Memos"
+      "name": "Evernote – Organizer Planner for Notes & Memos"
     },
     {
       "name": "Maps & GPS Navigation OsmAnd+"
@@ -12298,7 +12298,7 @@ const countries =
       "name": "Maps - Navigate & Explore"
     },
     {
-      "name": "AliExpress - Smarter Shopping, Better Living"
+      "name": "AliExpress - Smarter Shopping Better Living"
     },
     {
       "name": "Aldiko Book Reader"
@@ -12415,7 +12415,7 @@ const countries =
       "name": "F-1 watchface by Delta"
     },
     {
-      "name": "f.lux (preview, root-only)"
+      "name": "f.lux (preview root-only)"
     },
     {
       "name": "F Length Sim (no Ads)"
@@ -12520,7 +12520,7 @@ const countries =
       "name": "G-NetTrack Pro"
     },
     {
-      "name": "G Theme 2 for LG V30, LG G6"
+      "name": "G Theme 2 for LG V30 LG G6"
     },
     {
       "name": "Speedometer with G-FORCE meter"
@@ -12625,7 +12625,7 @@ const countries =
       "name": "RC City Police Heavy Traffic Racer"
     },
     {
-      "name": "Alphabet H Passcode Lock Screen"
+      "name": "Alphabet \"H\" Passcode Lock Screen"
     },
     {
       "name": "Ohio State Fair 4-H"
@@ -12718,7 +12718,7 @@ const countries =
       "name": "Text Free: WiFi Calling App"
     },
     {
-      "name": "Talkatone: Free Texts, Calls & Phone Number"
+      "name": "Talkatone: Free Texts Calls & Phone Number"
     },
     {
       "name": "Instachat 😜"
@@ -12727,7 +12727,7 @@ const countries =
       "name": "Textgram - write on photos"
     },
     {
-      "name": "Fame Boom for Real Followers, Likes"
+      "name": "Fame Boom for Real Followers Likes"
     },
     {
       "name": "NinJump"
@@ -12787,7 +12787,7 @@ const countries =
       "name": "Turbo FAST"
     },
     {
-      "name": "The Voice, sing and connect"
+      "name": "The Voice sing and connect"
     },
     {
       "name": "J. Cole Rapper Wallpaper HD"
@@ -12901,7 +12901,7 @@ const countries =
       "name": "Math Games for Pre-K - Grade 4"
     },
     {
-      "name": "PowerDirector Video Editor App: 4K, Slow Mo & More"
+      "name": "PowerDirector Video Editor App: 4K Slow Mo & More"
     },
     {
       "name": "Fuzzy Numbers: Pre-K Number Foundation"
@@ -12928,13 +12928,13 @@ const countries =
       "name": "K-App Mitarbeiter Galeria Kaufhof"
     },
     {
-      "name": "Niche: College, K-12, and Neighborhood Search"
+      "name": "Niche: College K-12 and Neighborhood Search"
     },
     {
-      "name": "K-Spapp, the K-Space app"
+      "name": "K-Spapp the K-Space app"
     },
     {
-      "name": "Math Quiz Free: Grades K,1,2,3"
+      "name": "Math Quiz Free: Grades K123"
     },
     {
       "name": "K-9 Material (unofficial)"
@@ -12961,19 +12961,19 @@ const countries =
       "name": "Korean Dungeon: K-Word 1000"
     },
     {
-      "name": "LiveMe - Video chat, new friends, and make money"
+      "name": "LiveMe - Video chat new friends and make money"
     },
     {
       "name": "Talking Tom Gold Run"
     },
     {
-      "name": "letgo: Buy & Sell Used Stuff, Cars & Real Estate"
+      "name": "letgo: Buy & Sell Used Stuff Cars & Real Estate"
     },
     {
       "name": "Lep's World 🍀"
     },
     {
-      "name": "L.POINT - 엘포인트 [ 포인트, 멤버십, 적립, 사용, 모바일 카드, 쿠폰, 롯데]"
+      "name": "L.POINT - 엘포인트 [ 포인트 멤버십 적립 사용 모바일 카드 쿠폰 롯데]"
     },
     {
       "name": "Love Balls"
@@ -12985,7 +12985,7 @@ const countries =
       "name": "Last Day on Earth: Survival"
     },
     {
-      "name": "Messenger L SMS, MMS"
+      "name": "Messenger L SMS MMS"
     },
     {
       "name": "Tom Loves Angela"
@@ -13039,7 +13039,7 @@ const countries =
       "name": "Je Parle ANGLAIS - Apprendre l’anglais Audio cours"
     },
     {
-      "name": "Mobizen Screen Recorder - Record, Capture, Edit"
+      "name": "Mobizen Screen Recorder - Record Capture Edit"
     },
     {
       "name": "Minecraft"
@@ -13057,7 +13057,7 @@ const countries =
       "name": "M Launcher -Marshmallow 6.0"
     },
     {
-      "name": "Mobizen Screen Recorder for LG - Record, Capture"
+      "name": "Mobizen Screen Recorder for LG - Record Capture"
     },
     {
       "name": "MakeupPlus - Your Own Virtual Makeup Artist"
@@ -13336,7 +13336,7 @@ const countries =
       "name": "O-Level Past Papers & Solution (up to 2017)"
     },
     {
-      "name": "O Multiple - App Cloner, Duals APP, tarallel"
+      "name": "O Multiple - App Cloner Duals APP tarallel"
     },
     {
       "name": "The Maze Runner"
@@ -13363,7 +13363,7 @@ const countries =
       "name": "[substratum] Vacuum: P"
     },
     {
-      "name": "Super P Launcher for Android P 9.0 launcher, theme"
+      "name": "Super P Launcher for Android P 9.0 launcher theme"
     },
     {
       "name": "pixiv"
@@ -13474,7 +13474,7 @@ const countries =
       "name": "Pi Dark [substratum]"
     },
     {
-      "name": "Q Alerts: QAnon Drop Notifications, Research +++"
+      "name": "Q Alerts: QAnon Drop Notifications Research +++"
     },
     {
       "name": "The Q - Live Trivia Game Network"
@@ -13486,7 +13486,7 @@ const countries =
       "name": "Q"
     },
     {
-      "name": "Official QR Code® Reader Q"
+      "name": "Official QR Code® Reader \"Q"
     },
     {
       "name": "Q Cat Live Wallpaper"
@@ -13585,7 +13585,7 @@ const countries =
       "name": "ROBLOX"
     },
     {
-      "name": "DataCamp - Learn R, Python & SQL"
+      "name": "DataCamp - Learn R Python & SQL"
     },
     {
       "name": "R Language Reference Guide"
@@ -13672,7 +13672,7 @@ const countries =
       "name": "Day R Premium"
     },
     {
-      "name": "Join R, Community Engagement"
+      "name": "Join R Community Engagement"
     },
     {
       "name": "R Bank"
@@ -13705,7 +13705,7 @@ const countries =
       "name": "S Launcher for Galaxy TouchWiz"
     },
     {
-      "name": "360 Security - Free Antivirus, Booster, Cleaner"
+      "name": "360 Security - Free Antivirus Booster Cleaner"
     },
     {
       "name": "S Player - Lightest and Most Powerful Video Player"
@@ -13723,7 +13723,7 @@ const countries =
       "name": "S Note"
     },
     {
-      "name": "S Photo Editor - Collage Maker , Photo Collage"
+      "name": "S Photo Editor - Collage Maker  Photo Collage"
     },
     {
       "name": "Stupid Zombies"
@@ -13738,7 +13738,7 @@ const countries =
       "name": "Samsung Smart Switch Mobile"
     },
     {
-      "name": "S S9 Launcher - Galaxy S8/S9 Launcher, theme, cool"
+      "name": "S S9 Launcher - Galaxy S8/S9 Launcher theme cool"
     },
     {
       "name": "Five Nights at Freddy's 2 Demo"
@@ -13765,7 +13765,7 @@ const countries =
       "name": "Tinder"
     },
     {
-      "name": "Topbuzz: Breaking News, Videos & Funny GIFs"
+      "name": "Topbuzz: Breaking News Videos & Funny GIFs"
     },
     {
       "name": "Twitch: Livestream Multiplayer Games & Esports"
@@ -13807,7 +13807,7 @@ const countries =
       "name": "T-Mobile Tuesdays"
     },
     {
-      "name": "Truecaller: Caller ID, SMS spam blocking & Dialer"
+      "name": "Truecaller: Caller ID SMS spam blocking & Dialer"
     },
     {
       "name": "AT&T Mobile Transfer"
@@ -13840,7 +13840,7 @@ const countries =
       "name": "Don't Starve: Pocket Edition"
     },
     {
-      "name": "Please, Don't Touch Anything"
+      "name": "Please Don't Touch Anything"
     },
     {
       "name": "AT&T DriveMode"
@@ -13888,7 +13888,7 @@ const countries =
       "name": "U LIVE – Video Chat & Stream"
     },
     {
-      "name": "U - Webinars, Meetings & Messenger"
+      "name": "U - Webinars Meetings & Messenger"
     },
     {
       "name": "Hollywood U: Rising Stars"
@@ -13936,7 +13936,7 @@ const countries =
       "name": "Channel U"
     },
     {
-      "name": "Parallel U - App Cloner, Duals APP, tarallel"
+      "name": "Parallel U - App Cloner Duals APP tarallel"
     },
     {
       "name": "U Pull It Auto Dismantler"
@@ -13957,7 +13957,7 @@ const countries =
       "name": "DRC Sim - Wii U Gamepad"
     },
     {
-      "name": "See U - Random video chat, video chat"
+      "name": "See U - Random video chat video chat"
     },
     {
       "name": "[verify-U] VideoIdent"
@@ -13984,7 +13984,7 @@ const countries =
       "name": "U-Report"
     },
     {
-      "name": "Meet U - Get Friends for Snapchat, Kik & Instagram"
+      "name": "Meet U - Get Friends for Snapchat Kik & Instagram"
     },
     {
       "name": "U-Craft Mobile"
@@ -14050,7 +14050,7 @@ const countries =
       "name": "All Video Downloader"
     },
     {
-      "name": "Vault-Hide SMS,Pics & Videos,App Lock,Cloud backup"
+      "name": "Vault-Hide SMSPics & VideosApp LockCloud backup"
     },
     {
       "name": "VidPlay"
@@ -14089,7 +14089,7 @@ const countries =
       "name": "BTS V LINE Launcher theme"
     },
     {
-      "name": "VideoShow-Video Editor, Video Maker, Beauty Camera"
+      "name": "VideoShow-Video Editor Video Maker Beauty Camera"
     },
     {
       "name": "FORD V SERIES CALC - NO LIMIT"
@@ -14152,16 +14152,16 @@ const countries =
       "name": "W Pro - Weather Forecast & Animated Weather Maps"
     },
     {
-      "name": "Waze - GPS, Maps, Traffic Alerts & Live Navigation"
+      "name": "Waze - GPS Maps Traffic Alerts & Live Navigation"
     },
     {
-      "name": "Dating App, Flirt & Chat : W-Match"
+      "name": "Dating App Flirt & Chat : W-Match"
     },
     {
       "name": "W - Weather Forecast & Animated Radar Maps"
     },
     {
-      "name": "WPS Office - Word, Docs, PDF, Note, Slide & Sheet"
+      "name": "WPS Office - Word Docs PDF Note Slide & Sheet"
     },
     {
       "name": "W-History Standalone"
@@ -14197,7 +14197,7 @@ const countries =
       "name": "Flashlight Free w/ compass"
     },
     {
-      "name": "App Lock: Locker w/ fingerprint, Parental Control"
+      "name": "App Lock: Locker w/ fingerprint Parental Control"
     },
     {
       "name": "IRS W-9 form"
@@ -14251,7 +14251,7 @@ const countries =
       "name": "X Launcher: With OS11 Style Theme & Control Center"
     },
     {
-      "name": "Phone X Launcher, OS 11 iLauncher & Control Center"
+      "name": "Phone X Launcher OS 11 iLauncher & Control Center"
     },
     {
       "name": "Lock Screen Phone X Style OS 11"
@@ -14266,7 +14266,7 @@ const countries =
       "name": "X Browser"
     },
     {
-      "name": "X Launcher Pro: PhoneX Theme, OS11 Control Center"
+      "name": "X Launcher Pro: PhoneX Theme OS11 Control Center"
     },
     {
       "name": "X-plore File Manager"
@@ -14344,7 +14344,7 @@ const countries =
       "name": "Guide (for X-MEN)"
     },
     {
-      "name": "Decibel X PRO - Sound Meter dBA, Noise Detector"
+      "name": "Decibel X PRO - Sound Meter dBA Noise Detector"
     },
     {
       "name": "Flight Simulator X 2016 Free"
@@ -14428,7 +14428,7 @@ const countries =
       "name": "Avast Mobile Security 2018 - Antivirus & App Lock"
     },
     {
-      "name": "GO Keyboard - Emoticon keyboard, Free Theme, GIF"
+      "name": "GO Keyboard - Emoticon keyboard Free Theme GIF"
     },
     {
       "name": "NQ Mobile Security & Antivirus"
@@ -14446,7 +14446,7 @@ const countries =
       "name": "ZArchiver"
     },
     {
-      "name": "Zapya - File Transfer, Sharing"
+      "name": "Zapya - File Transfer Sharing"
     },
     {
       "name": "Experiment Z - Zombie"
@@ -14473,7 +14473,7 @@ const countries =
       "name": "WithstandZ - Zombie Survival!"
     },
     {
-      "name": "Z Camera - Photo Editor, Beauty Selfie, Collage"
+      "name": "Z Camera - Photo Editor Beauty Selfie Collage"
     },
     {
       "name": "Empire Z: Endless War"
@@ -14599,7 +14599,7 @@ const countries =
       "name": "AB Repeat Player"
     },
     {
-      "name": "Abs, Core & Back Workout Challenge"
+      "name": "Abs Core & Back Workout Challenge"
     },
     {
       "name": "AB Mobile App"
@@ -14641,7 +14641,7 @@ const countries =
       "name": "AB Crush Match 3"
     },
     {
-      "name": "ABS Workout - Belly workout, 30 days AB"
+      "name": "ABS Workout - Belly workout 30 days AB"
     },
     {
       "name": "AB Match"
@@ -14746,7 +14746,7 @@ const countries =
       "name": "AC remote control mobile"
     },
     {
-      "name": "AC Air condition Troubleshoot,Repair,Maintenance"
+      "name": "AC Air condition TroubleshootRepairMaintenance"
     },
     {
       "name": "AC Remote for Haier - NOW FREE"
@@ -14791,7 +14791,7 @@ const countries =
       "name": "AC Remote Control Simulator"
     },
     {
-      "name": "Mi Remote controller - for TV, STB, AC and more"
+      "name": "Mi Remote controller - for TV STB AC and more"
     },
     {
       "name": "AcDisplay"
@@ -14821,7 +14821,7 @@ const countries =
       "name": "AC Remote for Carrier - NOW FREE"
     },
     {
-      "name": "AC & TV, DVD, Set Top Box - Remote control IR"
+      "name": "AC & TV DVD Set Top Box - Remote control IR"
     },
     {
       "name": "ac remote control"
@@ -14836,7 +14836,7 @@ const countries =
       "name": "AppBrain Ad Detector"
     },
     {
-      "name": "AD - Nieuws, Sport, Regio & Entertainment"
+      "name": "AD - Nieuws Sport Regio & Entertainment"
     },
     {
       "name": "Flud (Ad free)"
@@ -14848,7 +14848,7 @@ const countries =
       "name": "Adblock Browser for Android"
     },
     {
-      "name": "CM Browser - Ad Blocker , Fast Download , Privacy"
+      "name": "CM Browser - Ad Blocker  Fast Download  Privacy"
     },
     {
       "name": "Adguard Content Blocker"
@@ -14929,13 +14929,13 @@ const countries =
       "name": "Solitaire: Decked Out Ad Free"
     },
     {
-      "name": "WeatherClear - Ad-free Weather, Minute forecast"
+      "name": "WeatherClear - Ad-free Weather Minute forecast"
     },
     {
       "name": "Ad Remove Plugin for App2SD"
     },
     {
-      "name": "Digital Clock : Simple, Tiny, Ad-free Desk Clock."
+      "name": "Digital Clock : Simple Tiny Ad-free Desk Clock."
     },
     {
       "name": "Google Ads"
@@ -14971,7 +14971,7 @@ const countries =
       "name": "Flipp - Weekly Shopping"
     },
     {
-      "name": "AE + Aerie: Jeans, Dresses, Swimsuits & Bralettes"
+      "name": "AE + Aerie: Jeans Dresses Swimsuits & Bralettes"
     },
     {
       "name": "A&E - Watch Full Episodes of TV Shows"
@@ -15133,7 +15133,7 @@ const countries =
       "name": "Flim Af Somali Hindi Fanproj"
     },
     {
-      "name": "Cardiac diagnosis (heart rate, arrhythmia)"
+      "name": "Cardiac diagnosis (heart rate arrhythmia)"
     },
     {
       "name": "DSLR camera - Auto Focus and Blur Professional"
@@ -15214,7 +15214,7 @@ const countries =
       "name": "Auto Dslr Photo Effect : Auto Focus Effect"
     },
     {
-      "name": "9GAG: Funny Gifs, Pics, Memes & Videos for IGTV"
+      "name": "9GAG: Funny Gifs Pics Memes & Videos for IGTV"
     },
     {
       "name": "AF Johannesburg"
@@ -15250,7 +15250,7 @@ const countries =
       "name": "Blur"
     },
     {
-      "name": "AG Contacts, Premium edition"
+      "name": "AG Contacts Premium edition"
     },
     {
       "name": "Ag PhD Field Guide"
@@ -15262,7 +15262,7 @@ const countries =
       "name": "Apps for SportsBєtting.ag - Bitcoin Welcome here!"
     },
     {
-      "name": "AG Contacts, Lite edition"
+      "name": "AG Contacts Lite edition"
     },
     {
       "name": "Ag Weather Tools"
@@ -16048,7 +16048,7 @@ const countries =
       "name": "Surah Al-Waqiah"
     },
     {
-      "name": "Muslim Pro - Prayer Times, Azan, Quran & Qibla"
+      "name": "Muslim Pro - Prayer Times Azan Quran & Qibla"
     },
     {
       "name": "Hisnul Al Muslim - Hisn Invocations & Adhkaar"
@@ -16201,7 +16201,7 @@ const countries =
       "name": "Legend - Animate Text in Video"
     },
     {
-      "name": "Resume Builder Free, 5 Minute CV Maker & Templates"
+      "name": "Resume Builder Free 5 Minute CV Maker & Templates"
     },
     {
       "name": "AO Surgery Reference"
@@ -16399,7 +16399,7 @@ const countries =
       "name": "AP Government Review"
     },
     {
-      "name": "ap,wifi testing,iperf,ping,android,Bluetooth,tcp"
+      "name": "apwifi testingiperfpingandroidBluetoothtcp"
     },
     {
       "name": "HotSpot Tethering Free/WiFi AP"
@@ -16417,7 +16417,7 @@ const countries =
       "name": "Access Point Names"
     },
     {
-      "name": "AP Biology Prep: Practice Tests, Flashcards"
+      "name": "AP Biology Prep: Practice Tests Flashcards"
     },
     {
       "name": "AP Biology Study Guide + Quiz"
@@ -16576,7 +16576,7 @@ const countries =
       "name": "Dungeon Hunter 5 – Action RPG"
     },
     {
-      "name": "Grow Stone Online : 2d pixel RPG, MMORPG game"
+      "name": "Grow Stone Online : 2d pixel RPG MMORPG game"
     },
     {
       "name": "Evil Apples: A Dirty Card Game"
@@ -16609,7 +16609,7 @@ const countries =
       "name": "My Tamagotchi Forever"
     },
     {
-      "name": "Egg, Inc."
+      "name": "Egg Inc."
     },
     {
       "name": "Houzz Interior Design Ideas"
@@ -16636,13 +16636,13 @@ const countries =
       "name": "NYTimes - Latest News"
     },
     {
-      "name": "Overstock – Home Decor, Furniture Shopping"
+      "name": "Overstock – Home Decor Furniture Shopping"
     },
     {
       "name": "Stack It AR"
     },
     {
-      "name": "ARuler - AR Ruler app, Measure tools"
+      "name": "ARuler - AR Ruler app Measure tools"
     },
     {
       "name": "SNOW - AR Camera"
@@ -16699,13 +16699,13 @@ const countries =
       "name": "Paint Space AR"
     },
     {
-      "name": "Just a Line - Draw Anywhere, with AR"
+      "name": "Just a Line - Draw Anywhere with AR"
     },
     {
       "name": "AR Toybox - Augmented Reality Demos"
     },
     {
-      "name": "Mind Map AR, Augmented Reality ARCore Mind Mapping"
+      "name": "Mind Map AR Augmented Reality ARCore Mind Mapping"
     },
     {
       "name": "【Miku AR Camera】Mikuture"
@@ -16726,7 +16726,7 @@ const countries =
       "name": "MARCA - Diario Líder Deportivo"
     },
     {
-      "name": "AS - Diario online deportivo. Fútbol, motor y más"
+      "name": "AS - Diario online deportivo. Fútbol motor y más"
     },
     {
       "name": "SleepCloud Backup for Sleep as Android"
@@ -16744,7 +16744,7 @@ const countries =
       "name": "Sleep as Android Garmin Addon"
     },
     {
-      "name": "Sleep as Android: Sleep cycle tracker, smart alarm"
+      "name": "Sleep as Android: Sleep cycle tracker smart alarm"
     },
     {
       "name": "Sonic the Hedgehog™ Classic"
@@ -16975,7 +16975,7 @@ const countries =
       "name": "AU Results - AU COE Corner"
     },
     {
-      "name": "view.com.au - Buy, Rent or Research Real Estate"
+      "name": "view.com.au - Buy Rent or Research Real Estate"
     },
     {
       "name": "Au Weather Free"
@@ -16993,7 +16993,7 @@ const countries =
       "name": "Learners Test Free: AU Driver Knowledge Test (DKT)"
     },
     {
-      "name": "realestate.com.au - Buy, Rent & Sell Property"
+      "name": "realestate.com.au - Buy Rent & Sell Property"
     },
     {
       "name": "Au-allstar for KR"
@@ -17116,7 +17116,7 @@ const countries =
       "name": "Video Player All Format"
     },
     {
-      "name": "HD Video Player (wmv,avi,mp4,flv,av,mpg,mkv)2017"
+      "name": "HD Video Player (wmvavimp4flvavmpgmkv)2017"
     },
     {
       "name": "Baby Monitor AV"
@@ -17161,7 +17161,7 @@ const countries =
       "name": "Kaspersky Mobile Antivirus: AppLock & Web Security"
     },
     {
-      "name": "Mobile Security: Antivirus, Web Scan & App Lock"
+      "name": "Mobile Security: Antivirus Web Scan & App Lock"
     },
     {
       "name": "MyAV Remote for Denon & Marantz AV Receivers"
@@ -17194,7 +17194,7 @@ const countries =
       "name": "AV Anthony's"
     },
     {
-      "name": "Avast Cleanup & Boost, Phone Cleaner, Optimizer"
+      "name": "Avast Cleanup & Boost Phone Cleaner Optimizer"
     },
     {
       "name": "AW - free video calls and chat"
@@ -17494,7 +17494,7 @@ const countries =
       "name": "Ay Up"
     },
     {
-      "name": "AY Recorder - Screen Recorder, Live, Video Editor"
+      "name": "AY Recorder - Screen Recorder Live Video Editor"
     },
     {
       "name": "¡Ay Caramba!"
@@ -17689,7 +17689,7 @@ const countries =
       "name": "Az Video Status"
     },
     {
-      "name": "Arizona Statutes, ARS (AZ Law)"
+      "name": "Arizona Statutes ARS (AZ Law)"
     },
     {
       "name": "Explore Sedona & Northern AZ"
@@ -17869,7 +17869,7 @@ const countries =
       "name": "Hunt Buddy BC"
     },
     {
-      "name": "Survival Mobile:10,000 BC"
+      "name": "Survival Mobile:10000 BC"
     },
     {
       "name": "iHunter BC"
@@ -17908,7 +17908,7 @@ const countries =
       "name": "BC Hospital Wait Times"
     },
     {
-      "name": "Town of Princeton, BC"
+      "name": "Town of Princeton BC"
     },
     {
       "name": "Explore British Columbia - BC Travel Guide"
@@ -17950,7 +17950,7 @@ const countries =
       "name": "Business Calendar Pro"
     },
     {
-      "name": "Victoria, BC | Tour City"
+      "name": "Victoria BC | Tour City"
     },
     {
       "name": "BC Wildflowers"
@@ -18001,7 +18001,7 @@ const countries =
       "name": "Bridge Constructor Playground FREE"
     },
     {
-      "name": "BDCast - Bangla Live TV,Radio"
+      "name": "BDCast - Bangla Live TVRadio"
     },
     {
       "name": "bd's Mongolian Grill"
@@ -18028,7 +18028,7 @@ const countries =
       "name": "BD Provider App"
     },
     {
-      "name": "Izneo, Read Manga, Comics & BD"
+      "name": "Izneo Read Manga Comics & BD"
     },
     {
       "name": "BD Radio TV Free List"
@@ -18097,7 +18097,7 @@ const countries =
       "name": "BD Dialer"
     },
     {
-      "name": "Youboox - Livres, BD et magazines"
+      "name": "Youboox - Livres BD et magazines"
     },
     {
       "name": "BANGLA TV 3G/4G"
@@ -18226,7 +18226,7 @@ const countries =
       "name": "Be you GO Launcher Theme"
     },
     {
-      "name": "Star Girl - Fashion, Makeup & Dress Up"
+      "name": "Star Girl - Fashion Makeup & Dress Up"
     },
     {
       "name": "Be Like Bro - Compilation"
@@ -18316,7 +18316,7 @@ const countries =
       "name": "BF Combat: Genesis"
     },
     {
-      "name": "Womens Health Tips(Breast,Face,Body,weight lose)"
+      "name": "Women\"s Health Tips(BreastFaceBodyweight lose)"
     },
     {
       "name": "Combat BF: Black Ops 3"
@@ -18427,7 +18427,7 @@ const countries =
       "name": "Bg TV Online"
     },
     {
-      "name": "PhotoLayers〜Superimpose,Eraser"
+      "name": "PhotoLayers〜SuperimposeEraser"
     },
     {
       "name": "Zdravei.BG"
@@ -18565,7 +18565,7 @@ const countries =
       "name": "Block Gun 3D: Ghost Ops"
     },
     {
-      "name": "Music for Youtube - Tube Music BG, Red+"
+      "name": "Music for Youtube - Tube Music BG Red+"
     },
     {
       "name": "Bg+ Call Blocker"
@@ -18814,7 +18814,7 @@ const countries =
       "name": "Sisense Mobile BI"
     },
     {
-      "name": "Starg - Gay, Same Sex, Bi"
+      "name": "Starg - Gay Same Sex Bi"
     },
     {
       "name": "Propel BI APP"
@@ -18859,7 +18859,7 @@ const countries =
       "name": "Lesbian Chat & Dating - SPICY"
     },
     {
-      "name": "Moco - Chat, Meet People"
+      "name": "Moco - Chat Meet People"
     },
     {
       "name": "Bi-Tank"
@@ -18886,7 +18886,7 @@ const countries =
       "name": "TED"
     },
     {
-      "name": "Learn English Vocabulary - 6,000 Words"
+      "name": "Learn English Vocabulary - 6000 Words"
     },
     {
       "name": "English Dictionary - Offline"
@@ -18913,7 +18913,7 @@ const countries =
       "name": "Little Big City 2"
     },
     {
-      "name": "Mint: Budget, Bills, Finance"
+      "name": "Mint: Budget Bills Finance"
     },
     {
       "name": "English Grammar Test"
@@ -18979,7 +18979,7 @@ const countries =
       "name": "BJ-DRONE"
     },
     {
-      "name": "Real Casino:Slot,Keno,BJ,Poker"
+      "name": "Real Casino:SlotKenoBJPoker"
     },
     {
       "name": "AfreecaTV"
@@ -19003,7 +19003,7 @@ const countries =
       "name": "Alumni BJ"
     },
     {
-      "name": "뽕티비 - 개인방송, 인터넷방송, BJ방송"
+      "name": "뽕티비 - 개인방송 인터넷방송 BJ방송"
     },
     {
       "name": "BJ card game blackjack"
@@ -19387,7 +19387,7 @@ const countries =
       "name": "DMR BrandMeister Tool"
     },
     {
-      "name": "Borneo Bible, BM Bible"
+      "name": "Borneo Bible BM Bible"
     },
     {
       "name": "Basket Manager 2018 Free"
@@ -19588,7 +19588,7 @@ const countries =
       "name": "BN MALLORCA Radio"
     },
     {
-      "name": "Calendars (En, Bn, Ar)"
+      "name": "Calendars (En Bn Ar)"
     },
     {
       "name": "BN Habitat - Property Experts - Buy | Sell | Rent"
@@ -19798,7 +19798,7 @@ const countries =
       "name": "Free Blood Pressure"
     },
     {
-      "name": "Diabetes, Blood Pressure, Health Tracker App"
+      "name": "Diabetes Blood Pressure Health Tracker App"
     },
     {
       "name": "Blood Pressure(BP) Report Lite"
@@ -19891,7 +19891,7 @@ const countries =
       "name": "BQ-መጽሐፍ ቅዱሳዊ ጥያቄዎች"
     },
     {
-      "name": "Brilliant Quotes: Life, Love, Family & Motivation"
+      "name": "Brilliant Quotes: Life Love Family & Motivation"
     },
     {
       "name": "BQ Scan"
@@ -20017,10 +20017,10 @@ const countries =
       "name": "4-T's Bar-BQ & Catering"
     },
     {
-      "name": "Zetup, print in one click"
+      "name": "Zetup print in one click"
     },
     {
-      "name": "Bleacher Report: sports news, scores, & highlights"
+      "name": "Bleacher Report: sports news scores & highlights"
     },
     {
       "name": "Baskin-Robbins"
@@ -20398,7 +20398,7 @@ const countries =
       "name": "Battery Notifier BT Free"
     },
     {
-      "name": "BT Dating -Find your match, help cupid, be social"
+      "name": "BT Dating -Find your match help cupid be social"
     },
     {
       "name": "BT (Usage Interne)"
@@ -20473,7 +20473,7 @@ const countries =
       "name": "Barisal University App-BU Face"
     },
     {
-      "name": "Pu - Cute giant panda bear, baby pet care game"
+      "name": "Pu - Cute giant panda bear baby pet care game"
     },
     {
       "name": "BU Students' Rep. Council"
@@ -20947,7 +20947,7 @@ const countries =
       "name": "BMX Boy Bike Stunt Rider Game"
     },
     {
-      "name": "CoinMarketApp - CryptoCurrency Portfolio, News,ICO"
+      "name": "CoinMarketApp - CryptoCurrency Portfolio NewsICO"
     },
     {
       "name": "Best Friends Dress Up & Makeup"
@@ -21019,7 +21019,7 @@ const countries =
       "name": "PixBox Coloring - Color by number Sandbox"
     },
     {
-      "name": "3D Color by Number: Voxel, Unicorn, Pixel Art 3D"
+      "name": "3D Color by Number: Voxel Unicorn Pixel Art 3D"
     },
     {
       "name": "Pixelmania - Color by number & create pixel art"
@@ -21070,13 +21070,13 @@ const countries =
       "name": "Halloween Sandbox Number Coloring- Color By Number"
     },
     {
-      "name": "Fiesta by Tango - Find, Meet and Make New Friends"
+      "name": "Fiesta by Tango - Find Meet and Make New Friends"
     },
     {
-      "name": "Poly Art: Paint by Sticker, Color by Number Puzzle"
+      "name": "Poly Art: Paint by Sticker Color by Number Puzzle"
     },
     {
-      "name": "Pixel art pro-Sand box,paint by number,number draw"
+      "name": "Pixel art pro-Sand boxpaint by numbernumber draw"
     },
     {
       "name": "Color by Number: Pixel Art"
@@ -21700,7 +21700,7 @@ const countries =
       "name": "CE Airbus"
     },
     {
-      "name": "Führerschein Klasse CE, LKW 2018"
+      "name": "Führerschein Klasse CE LKW 2018"
     },
     {
       "name": "CE Intelligence"
@@ -21820,7 +21820,7 @@ const countries =
       "name": "CF Etowah"
     },
     {
-      "name": "Cystic Fibrosis Symptoms, Doctors & Treatments"
+      "name": "Cystic Fibrosis Symptoms Doctors & Treatments"
     },
     {
       "name": "Málaga CF Wallpapers 4 Fans"
@@ -21985,7 +21985,7 @@ const countries =
       "name": "CG JOKES - Copy & Share"
     },
     {
-      "name": "Ultimate Public Campgrounds (Over 37,100 in US&CA)"
+      "name": "Ultimate Public Campgrounds (Over 37100 in US&CA)"
     },
     {
       "name": "Chrome Beta"
@@ -21994,7 +21994,7 @@ const countries =
       "name": "20 minutes (CH)"
     },
     {
-      "name": "OurHome – chores, rewards, groceries and calendar"
+      "name": "OurHome – chores rewards groceries and calendar"
     },
     {
       "name": "Weather Data CH"
@@ -22018,7 +22018,7 @@ const countries =
       "name": "20 Minuten (CH)"
     },
     {
-      "name": "Reading Race 1b: sh, ch words"
+      "name": "Reading Race 1b: sh ch words"
     },
     {
       "name": "Calvary.ch App"
@@ -22102,7 +22102,7 @@ const countries =
       "name": "usgang.ch"
     },
     {
-      "name": "Startupticker.ch News, Events"
+      "name": "Startupticker.ch News Events"
     },
     {
       "name": "ci"
@@ -22498,7 +22498,7 @@ const countries =
       "name": "cloudLibrary"
     },
     {
-      "name": "CL Reader for Craigslist(For sale, jobs, rental..)"
+      "name": "CL Reader for Craigslist(For sale jobs rental..)"
     },
     {
       "name": "CL Pro App for Craigslist"
@@ -22609,10 +22609,10 @@ const countries =
       "name": "CL-App"
     },
     {
-      "name": "Security Master - Antivirus, VPN, AppLock, Booster"
+      "name": "Security Master - Antivirus VPN AppLock Booster"
     },
     {
-      "name": "CM Launcher 3D - Theme, Wallpapers, Efficient"
+      "name": "CM Launcher 3D - Theme Wallpapers Efficient"
     },
     {
       "name": "CM Launcher 3D Pro💎"
@@ -22624,7 +22624,7 @@ const countries =
       "name": "Clean Master Lite - For Low-End Phone"
     },
     {
-      "name": "CM Security Open VPN - Free, fast unlimited proxy"
+      "name": "CM Security Open VPN - Free fast unlimited proxy"
     },
     {
       "name": "CM Security Lite - Antivirus"
@@ -22633,7 +22633,7 @@ const countries =
       "name": "CM Transfer - Share any files with friends nearby"
     },
     {
-      "name": "CM Flashlight (Compass, SOS)"
+      "name": "CM Flashlight (Compass SOS)"
     },
     {
       "name": "CM Apps"
@@ -22642,7 +22642,7 @@ const countries =
       "name": "CM AppLock"
     },
     {
-      "name": "Ruler(cm, inch)"
+      "name": "Ruler(cm inch)"
     },
     {
       "name": "AppLock - Fingerprint Unlock"
@@ -22657,7 +22657,7 @@ const countries =
       "name": "Inch/cm/Foot Conversion"
     },
     {
-      "name": "Speed Booster - Ram, Battery & Game Speed Booster"
+      "name": "Speed Booster - Ram Battery & Game Speed Booster"
     },
     {
       "name": "CM FILE MANAGER"
@@ -22684,13 +22684,13 @@ const countries =
       "name": "Ruler cm"
     },
     {
-      "name": "Length Converter: convert mm,cm,m, feet,yard,mile"
+      "name": "Length Converter: convert mmcmm feetyardmile"
     },
     {
       "name": "CM AppLock Fingerprint 2018"
     },
     {
-      "name": "m, cm, mm to yard, feet, inch converter tool"
+      "name": "m cm mm to yard feet inch converter tool"
     },
     {
       "name": "Speed Car CM Locker Theme"
@@ -22720,13 +22720,13 @@ const countries =
       "name": "QuickPic - Photo Gallery with Google Drive Support"
     },
     {
-      "name": "Ruler & Area Measurement (cm, inch)"
+      "name": "Ruler & Area Measurement (cm inch)"
     },
     {
       "name": "Inches to Centimeters"
     },
     {
-      "name": "cm, mm to inch, feet converter tool"
+      "name": "cm mm to inch feet converter tool"
     },
     {
       "name": "City light CM Locker Theme"
@@ -22837,7 +22837,7 @@ const countries =
       "name": "Block Survival Craft:The Story"
     },
     {
-      "name": "What's Up, Snoopy? - Peanuts"
+      "name": "What's Up Snoopy? - Peanuts"
     },
     {
       "name": "DisneyNOW – TV Shows & Games"
@@ -22996,7 +22996,7 @@ const countries =
       "name": "Permit Test CO Colorado DMV"
     },
     {
-      "name": "Chinese Chess 3D Online (Xiangqi, 象棋, co tuong)"
+      "name": "Chinese Chess 3D Online (Xiangqi 象棋 co tuong)"
     },
     {
       "name": "2-Player Co-op Zombie Shoot"
@@ -23038,7 +23038,7 @@ const countries =
       "name": "Cerebral Palsy"
     },
     {
-      "name": "Speak quietly: Autism, CP"
+      "name": "Speak quietly: Autism CP"
     },
     {
       "name": "CP RACING 2 FREE"
@@ -23050,7 +23050,7 @@ const countries =
       "name": "CP ToolBox"
     },
     {
-      "name": "Talking Pictures: Autism, CP"
+      "name": "Talking Pictures: Autism CP"
     },
     {
       "name": "CP HAPPS - Pittsburgh Events"
@@ -23356,7 +23356,7 @@ const countries =
       "name": "Helper for Clash Royale (All-in-1)"
     },
     {
-      "name": "CR Fans: Mazos, Clanes y Grupos"
+      "name": "CR Fans: Mazos Clanes y Grupos"
     },
     {
       "name": "DCUO|CR Calculator Lite"
@@ -23707,7 +23707,7 @@ const countries =
       "name": "POCKET ATLAS CARDIAC MRI AND CT"
     },
     {
-      "name": "CU: UPI Payments, Chat & Call"
+      "name": "CU: UPI Payments Chat & Call"
     },
     {
       "name": "CU of Colorado Mobile Banking"
@@ -23860,7 +23860,7 @@ const countries =
       "name": "Free CV Creator"
     },
     {
-      "name": "Job CV Maker-Portfolio Maker , Resume Maker"
+      "name": "Job CV Maker-Portfolio Maker  Resume Maker"
     },
     {
       "name": "Resume Builder and CV maker app"
@@ -23875,10 +23875,10 @@ const countries =
       "name": "Cv maker / Job cv maker"
     },
     {
-      "name": "Resume Builder Free, CV Maker & Resume Templates"
+      "name": "Resume Builder Free CV Maker & Resume Templates"
     },
     {
-      "name": "Free Professional Resume Builder, CV, Cover Letter"
+      "name": "Free Professional Resume Builder CV Cover Letter"
     },
     {
       "name": "Resume Free"
@@ -23887,7 +23887,7 @@ const countries =
       "name": "How to Write CV"
     },
     {
-      "name": "Super Resume Builder Pro, CV"
+      "name": "Super Resume Builder Pro CV"
     },
     {
       "name": "Free Resume Builder – CV Maker"
@@ -23902,7 +23902,7 @@ const countries =
       "name": "Curriculum Vitae - Resume CV"
     },
     {
-      "name": "Resume Maker:Free CV Maker,Templates Builder"
+      "name": "Resume Maker:Free CV MakerTemplates Builder"
     },
     {
       "name": "Resume Builder / CV Maker & Templates"
@@ -23947,7 +23947,7 @@ const countries =
       "name": "CV (Curriculum Vitae / Resume) Maker"
     },
     {
-      "name": "Easy Resume Builder, Resume help, Curriculum vitae"
+      "name": "Easy Resume Builder Resume help Curriculum vitae"
     },
     {
       "name": "Resume / CV"
@@ -24031,7 +24031,7 @@ const countries =
       "name": "CW Mobile"
     },
     {
-      "name": "Freeform – Stream Full Episodes, Movies, & Live TV"
+      "name": "Freeform – Stream Full Episodes Movies & Live TV"
     },
     {
       "name": "CW BLE Peripheral Simulator"
@@ -24046,7 +24046,7 @@ const countries =
       "name": "Morse Player"
     },
     {
-      "name": "FXNOW: Movies, Shows & Live TV"
+      "name": "FXNOW: Movies Shows & Live TV"
     },
     {
       "name": "My CW"
@@ -24088,7 +24088,7 @@ const countries =
       "name": "News 8 San Diego"
     },
     {
-      "name": "Hulu: Stream TV, Movies & more"
+      "name": "Hulu: Stream TV Movies & more"
     },
     {
       "name": "Learn Morse Code - G0HYN Learn Morse"
@@ -24247,7 +24247,7 @@ const countries =
       "name": "CX Network"
     },
     {
-      "name": "Cymera Camera- Photo Editor, Filter,Collage,Layout"
+      "name": "Cymera Camera- Photo Editor FilterCollageLayout"
     },
     {
       "name": "CY Security Antivirus Cleaner"
@@ -24523,7 +24523,7 @@ const countries =
       "name": "Ghost Detector"
     },
     {
-      "name": "Face Filter, Selfie Editor - Sweet Camera"
+      "name": "Face Filter Selfie Editor - Sweet Camera"
     },
     {
       "name": "Master for Minecraft(Pocket Edition)-Mod Launcher"
@@ -24658,7 +24658,7 @@ const countries =
       "name": "DB Manager"
     },
     {
-      "name": "10,000 Quotes DB (Premium)"
+      "name": "10000 Quotes DB (Premium)"
     },
     {
       "name": "Guide for DB Xenoverse"
@@ -24781,7 +24781,7 @@ const countries =
       "name": "Batman: Gotham’s Most Wanted!"
     },
     {
-      "name": "Superheroes, Marvel, DC, Comics, TV, Movies News"
+      "name": "Superheroes Marvel DC Comics TV Movies News"
     },
     {
       "name": "MARVEL Contest of Champions"
@@ -24916,7 +24916,7 @@ const countries =
       "name": "Heavy Bus Simulator"
     },
     {
-      "name": "CallApp: Caller ID, Blocker & Phone Call Recorder"
+      "name": "CallApp: Caller ID Blocker & Phone Call Recorder"
     },
     {
       "name": "Love Fonts for FlipFont"
@@ -25015,7 +25015,7 @@ const countries =
       "name": "DF-View"
     },
     {
-      "name": "MexiRoomies - roomies, mexico, df, apt, house room"
+      "name": "MexiRoomies - roomies mexico df apt house room"
     },
     {
       "name": "DF Wall Plus – Droid Firewall"
@@ -25081,7 +25081,7 @@ const countries =
       "name": "Diseño de columnas NTC - RSEE 2017"
     },
     {
-      "name": "Dollar General - Digital Coupons, Ads And More"
+      "name": "Dollar General - Digital Coupons Ads And More"
     },
     {
       "name": "DG Coupon"
@@ -25273,7 +25273,7 @@ const countries =
       "name": "Bike Unchained"
     },
     {
-      "name": "Red Bull TV: Live Sports, Music & Entertainment"
+      "name": "Red Bull TV: Live Sports Music & Entertainment"
     },
     {
       "name": "DH Mariage"
@@ -25321,7 +25321,7 @@ const countries =
       "name": "Duolingo: Learn Languages Free"
     },
     {
-      "name": "Free phone calls, free texting SMS on free number"
+      "name": "Free phone calls free texting SMS on free number"
     },
     {
       "name": "DiskDigger photo recovery"
@@ -25387,7 +25387,7 @@ const countries =
       "name": "HOLLA Live: Meet New People via Random Video Chat"
     },
     {
-      "name": "Quik – Free Video Editor for photos, clips, music"
+      "name": "Quik – Free Video Editor for photos clips music"
     },
     {
       "name": "Euro Truck Driver (Simulator)"
@@ -25888,10 +25888,10 @@ const countries =
       "name": "Google Docs"
     },
     {
-      "name": "Microsoft To-Do: List, Task & Reminder"
+      "name": "Microsoft To-Do: List Task & Reminder"
     },
     {
-      "name": "Any.do: To-do list, Calendar, Reminders & Planner"
+      "name": "Any.do: To-do list Calendar Reminders & Planner"
     },
     {
       "name": "PDF Reader - Scan、Edit & Share"
@@ -25906,7 +25906,7 @@ const countries =
       "name": "File Viewer for Android"
     },
     {
-      "name": "Polaris Office - Word, Docs, Sheets, Slide, PDF"
+      "name": "Polaris Office - Word Docs Sheets Slide PDF"
     },
     {
       "name": "Google Keep"
@@ -25936,13 +25936,13 @@ const countries =
       "name": "wikiHow: how to do anything"
     },
     {
-      "name": "Ike - To-Do List, Task List"
+      "name": "Ike - To-Do List Task List"
     },
     {
       "name": "Kung Fu Do Fighting"
     },
     {
-      "name": "My Effectiveness: To do, Tasks"
+      "name": "My Effectiveness: To do Tasks"
     },
     {
       "name": "Do it (Tomorrow)"
@@ -25957,19 +25957,19 @@ const countries =
       "name": "NoteToDo. Notes. To do list"
     },
     {
-      "name": "Memory Helper - To do list, Notepad, Notes, Memo"
+      "name": "Memory Helper - To do list Notepad Notes Memo"
     },
     {
-      "name": "2Do - Reminders, To-do List & Notes"
+      "name": "2Do - Reminders To-do List & Notes"
     },
     {
-      "name": "TickTick: To Do List with Reminder, Day Planner"
+      "name": "TickTick: To Do List with Reminder Day Planner"
     },
     {
-      "name": "Notes : Colorful Notepad Note,To Do,Reminder,Memo"
+      "name": "Notes : Colorful Notepad NoteTo DoReminderMemo"
     },
     {
-      "name": "Time Planner - Schedule, To-Do List, Time Tracker"
+      "name": "Time Planner - Schedule To-Do List Time Tracker"
     },
     {
       "name": "MyLifeOrganized: To-Do List"
@@ -25981,10 +25981,10 @@ const countries =
       "name": "Cal - Google Calendar + Widget"
     },
     {
-      "name": "Clean My House – Chore To Do List, Task Scheduler"
+      "name": "Clean My House – Chore To Do List Task Scheduler"
     },
     {
-      "name": "Goal Meter: Goal Tracker, Habit Changer,To-Do List"
+      "name": "Goal Meter: Goal Tracker Habit ChangerTo-Do List"
     },
     {
       "name": "To-do list"
@@ -26086,7 +26086,7 @@ const countries =
       "name": "Status For WhatsApp DP - pro"
     },
     {
-      "name": "Marathi DP - status and message,jokes,Video app"
+      "name": "Marathi DP - status and messagejokesVideo app"
     },
     {
       "name": "Cute Images for Whatsapp"
@@ -26110,7 +26110,7 @@ const countries =
       "name": "Best DP and Status"
     },
     {
-      "name": "100000+ Messages - DP, Status, Jokes & GIF 2018"
+      "name": "100000+ Messages - DP Status Jokes & GIF 2018"
     },
     {
       "name": "Instant DP Downloader for Instagram"
@@ -26299,7 +26299,7 @@ const countries =
       "name": "Dr. Battery - Fast Charger - Super Cleaner 2018"
     },
     {
-      "name": "Dr. Safety - Antivirus, Booster, Cleaner, AppLock"
+      "name": "Dr. Safety - Antivirus Booster Cleaner AppLock"
     },
     {
       "name": "DR TV"
@@ -26653,7 +26653,7 @@ const countries =
       "name": "DTPay"
     },
     {
-      "name": "i DT Fútbol. Todos Somos Técnicos."
+      "name": "i DT\" Fútbol. Todos Somos Técnicos."
     },
     {
       "name": "MasterDT"
@@ -26725,7 +26725,7 @@ const countries =
       "name": "DU Emoji Keyboard（Simeji）"
     },
     {
-      "name": "DU GIF Maker: GIF Maker, Video to GIF & GIF Editor"
+      "name": "DU GIF Maker: GIF Maker Video to GIF & GIF Editor"
     },
     {
       "name": "DU Flashlight - Brightest LED & Flashlight Free"
@@ -26788,7 +26788,7 @@ const countries =
       "name": "Proverbes du monde"
     },
     {
-      "name": "GO Security－AntiVirus, AppLock, Booster"
+      "name": "GO Security－AntiVirus AppLock Booster"
     },
     {
       "name": "iSmart DV"
@@ -26935,7 +26935,7 @@ const countries =
       "name": "DW - Breaking World News"
     },
     {
-      "name": "DW Learn German - A1, A2, B1 and placement test"
+      "name": "DW Learn German - A1 A2 B1 and placement test"
     },
     {
       "name": "DW Mobile"
@@ -27643,7 +27643,7 @@ const countries =
       "name": "Punjab Online - Land Records • EB Bill Pay • RC/DL"
     },
     {
-      "name": "energyly (TNEB,BESCOM,MH,DL..)"
+      "name": "energyly (TNEBBESCOMMHDL..)"
     },
     {
       "name": "Paraglider Dashboard"
@@ -27664,7 +27664,7 @@ const countries =
       "name": "Electrician Calculator Pro"
     },
     {
-      "name": "Call Blocker - Blacklist, SMS Blocker"
+      "name": "Call Blocker - Blacklist SMS Blocker"
     },
     {
       "name": "英漢字典 EC Dictionary"
@@ -27676,7 +27676,7 @@ const countries =
       "name": "TN EC Online New"
     },
     {
-      "name": "TN Patta, Chitta, EC"
+      "name": "TN Patta Chitta EC"
     },
     {
       "name": "TN Patta Chitta EC Info"
@@ -27700,7 +27700,7 @@ const countries =
       "name": "Encumbrance Certificate - (Obsolete)"
     },
     {
-      "name": "My Handbook : EE, EC, EI, E&T, EEE, EECS"
+      "name": "My Handbook : EE EC EI E&T EEE EECS"
     },
     {
       "name": "ec-Work"
@@ -27952,7 +27952,7 @@ const countries =
       "name": "E.G. Chess Free"
     },
     {
-      "name": "EG SIM CARD (EGSIMCARD, 이지심카드)"
+      "name": "EG SIM CARD (EGSIMCARD 이지심카드)"
     },
     {
       "name": "EG-Boost"
@@ -28333,7 +28333,7 @@ const countries =
       "name": "Break the Egg"
     },
     {
-      "name": "Kolkata News:Anandbazar Patrika,ei samay&AllRating"
+      "name": "Kolkata News:Anandbazar Patrikaei samay&AllRating"
     },
     {
       "name": "PJ Masks: HQ"
@@ -28444,7 +28444,7 @@ const countries =
       "name": "WIZARD Card Game"
     },
     {
-      "name": "Period Tracker, Pregnancy Calculator & Calendar 🌸"
+      "name": "Period Tracker Pregnancy Calculator & Calendar 🌸"
     },
     {
       "name": "Fake Call From Wengie Prank"
@@ -28588,7 +28588,7 @@ const countries =
       "name": "Sanu Ek Pal Chain Song Videos - RAID Movie Songs"
     },
     {
-      "name": "Phogy, 3D Camera"
+      "name": "Phogy 3D Camera"
     },
     {
       "name": "Ek Qissa He Quran Se (Qurani Waqiyat)"
@@ -28720,7 +28720,7 @@ const countries =
       "name": "Western Union US - Send Money Transfers Quickly"
     },
     {
-      "name": "Maps, GPS Navigation & Directions, Street View"
+      "name": "Maps GPS Navigation & Directions Street View"
     },
     {
       "name": "Human Anatomy Atlas 2018: Complete 3D Human Body"
@@ -28783,7 +28783,7 @@ const countries =
       "name": "Poker Live! 3D Texas Hold'em"
     },
     {
-      "name": "CBS Sports App - Scores, News, Stats & Watch Live"
+      "name": "CBS Sports App - Scores News Stats & Watch Live"
     },
     {
       "name": "Fun Texas Hold'em Poker"
@@ -28894,7 +28894,7 @@ const countries =
       "name": "Orfox: Tor Browser for Android"
     },
     {
-      "name": "NewsDog - Latest News, Breaking News, Local News"
+      "name": "NewsDog - Latest News Breaking News Local News"
     },
     {
       "name": "Keyboard ManMan"
@@ -28906,13 +28906,13 @@ const countries =
       "name": "HTC Sense Input - EN"
     },
     {
-      "name": "busuu: Learn Languages - Spanish, English & More"
+      "name": "busuu: Learn Languages - Spanish English & More"
     },
     {
       "name": "Classic Words Solo"
     },
     {
-      "name": "Ginger Keyboard - Emoji, GIFs, Themes & Games"
+      "name": "Ginger Keyboard - Emoji GIFs Themes & Games"
     },
     {
       "name": "English Audio Books - Librivox"
@@ -28921,7 +28921,7 @@ const countries =
       "name": "Learn Top 300 English Words"
     },
     {
-      "name": "Univision Deportes: Liga MX, MLS, Fútbol En Vivo"
+      "name": "Univision Deportes: Liga MX MLS Fútbol En Vivo"
     },
     {
       "name": "Chess Free"
@@ -29254,7 +29254,7 @@ const countries =
       "name": "ER Blood Draw Doctor & Surgeon"
     },
     {
-      "name": "ER Emergency Hospital - Brain, Knee, Eye Surgery"
+      "name": "ER Emergency Hospital - Brain Knee Eye Surgery"
     },
     {
       "name": "Super Doctor 1-Pregnant Mom ER Surgery Simulator"
@@ -29395,7 +29395,7 @@ const countries =
       "name": "ES Holo Theme"
     },
     {
-      "name": "ES File Explorer & Manager, Locker Xplorer 2018"
+      "name": "ES File Explorer & Manager Locker Xplorer 2018"
     },
     {
       "name": "ES Summer Chill Theme for Free"
@@ -29518,7 +29518,7 @@ const countries =
       "name": "Google Arts & Culture"
     },
     {
-      "name": "Moneycontrol – Stocks, Sensex, Mutual Funds, IPO"
+      "name": "Moneycontrol – Stocks Sensex Mutual Funds IPO"
     },
     {
       "name": "CNBC: Breaking Business News & Live Market Data"
@@ -29527,10 +29527,10 @@ const countries =
       "name": "Google Earth"
     },
     {
-      "name": "Groupon - Shop Deals, Discounts & Coupons"
+      "name": "Groupon - Shop Deals Discounts & Coupons"
     },
     {
-      "name": "Photo Lab Picture Editor: face effects, art frames"
+      "name": "Photo Lab Picture Editor: face effects art frames"
     },
     {
       "name": "Google News"
@@ -29572,7 +29572,7 @@ const countries =
       "name": "Hangouts Dialer - Call Phones"
     },
     {
-      "name": "Ideal Weight, BMI Calculator"
+      "name": "Ideal Weight BMI Calculator"
     },
     {
       "name": "Epson iPrint"
@@ -30007,7 +30007,7 @@ const countries =
       "name": "EW Widgets for Zooper"
     },
     {
-      "name": "Ew, the small alien"
+      "name": "Ew the small alien"
     },
     {
       "name": "The List"
@@ -30505,13 +30505,13 @@ const countries =
       "name": "HTC Sense Input - FA"
     },
     {
-      "name": "FEABIE: Feedees, BBW, BHM & FA"
+      "name": "FEABIE: Feedees BBW BHM & FA"
     },
     {
       "name": "Test Server SMS FA"
     },
     {
-      "name": "Messages, Text and Video Chat for Messenger"
+      "name": "Messages Text and Video Chat for Messenger"
     },
     {
       "name": "All Social Networks"
@@ -30637,7 +30637,7 @@ const countries =
       "name": "Messenger"
     },
     {
-      "name": "Stickers for Imo, fb, whatsapp"
+      "name": "Stickers for Imo fb whatsapp"
     },
     {
       "name": "Who Viewed My Facebook Profile - Stalkers Visitors"
@@ -30706,7 +30706,7 @@ const countries =
       "name": "IDM for Facebook ★ Downloader"
     },
     {
-      "name": "Unlimited Group Links - Whatsapp, FB, Telegram"
+      "name": "Unlimited Group Links - Whatsapp FB Telegram"
     },
     {
       "name": "EasyLive - FB Live Helper"
@@ -30736,7 +30736,7 @@ const countries =
       "name": "Barcelona Calendar"
     },
     {
-      "name": "Barca News - FC Barcelona, World Foot & Transfers"
+      "name": "Barca News - FC Barcelona World Foot & Transfers"
     },
     {
       "name": "FC Bayern Munich"
@@ -30829,7 +30829,7 @@ const countries =
       "name": "Mobile FC"
     },
     {
-      "name": "FirstCry Baby & Kids Shopping, Fashion & Parenting"
+      "name": "FirstCry Baby & Kids Shopping Fashion & Parenting"
     },
     {
       "name": "Fan App for Reading FC"
@@ -30904,13 +30904,13 @@ const countries =
       "name": "Financial Calculator India"
     },
     {
-      "name": "FD Calculator (EMI, SIP, RD & Loan Eligilibility)"
+      "name": "FD Calculator (EMI SIP RD & Loan Eligilibility)"
     },
     {
       "name": "FD VR Cardboard Featured 360 Videos"
     },
     {
-      "name": "EMI, FD, RD - Bank Calculator"
+      "name": "EMI FD RD - Bank Calculator"
     },
     {
       "name": "FD VR Player - for Youtube 3D"
@@ -31342,7 +31342,7 @@ const countries =
       "name": "Smart Wi-Fi Hotspot PRO"
     },
     {
-      "name": "Talkie - Wi-Fi Calling, Chats, File Sharing"
+      "name": "Talkie - Wi-Fi Calling Chats File Sharing"
     },
     {
       "name": "Portable Wi-Fi hotspot Premium"
@@ -31360,7 +31360,7 @@ const countries =
       "name": "WeFi - Free Fast WiFi Connect & Find Wi-Fi Map"
     },
     {
-      "name": "Talkie Pro - Wi-Fi Calling, Chats, File Sharing"
+      "name": "Talkie Pro - Wi-Fi Calling Chats File Sharing"
     },
     {
       "name": "Safe Wi-Fi"
@@ -31453,7 +31453,7 @@ const countries =
       "name": "New Wallpapers Toyota FJ Cruiser Theme"
     },
     {
-      "name": "FJ Final Join , Circles Game"
+      "name": "FJ Final Join  Circles Game"
     },
     {
       "name": "HD Wallpaper - Toyota FJ Cruiser"
@@ -31729,7 +31729,7 @@ const countries =
       "name": "Scratch-Off Guide for FL Lotto"
     },
     {
-      "name": "Charlotte County, FL"
+      "name": "Charlotte County FL"
     },
     {
       "name": "Results for FL Lottery"
@@ -31822,28 +31822,28 @@ const countries =
       "name": "Fort Myers FL"
     },
     {
-      "name": "News-Journal-Daytona Beach, FL"
+      "name": "News-Journal-Daytona Beach FL"
     },
     {
       "name": "Florida map"
     },
     {
-      "name": "Trinity Church Deltona, FL"
+      "name": "Trinity Church Deltona FL"
     },
     {
       "name": "FL Drone 2"
     },
     {
-      "name": "Beacon Baptist Jupiter, FL"
+      "name": "Beacon Baptist Jupiter FL"
     },
     {
-      "name": "Clearwater, FL - weather and more"
+      "name": "Clearwater FL - weather and more"
     },
     {
       "name": "University of Florida"
     },
     {
-      "name": "Ocala Star Banner, FL"
+      "name": "Ocala Star Banner FL"
     },
     {
       "name": "Alachua County Sheriff FL"
@@ -31876,7 +31876,7 @@ const countries =
       "name": "Employ Florida Mobile"
     },
     {
-      "name": "St. Petersburg, FL - weather and more"
+      "name": "St. Petersburg FL - weather and more"
     },
     {
       "name": "LifePoint Church - FL"
@@ -31906,7 +31906,7 @@ const countries =
       "name": "Florida Map offline"
     },
     {
-      "name": "The Ledger - Lakeland, Florida"
+      "name": "The Ledger - Lakeland Florida"
     },
     {
       "name": "FRONTLINE COMMANDO"
@@ -31984,7 +31984,7 @@ const countries =
       "name": "Wallpapers FN FAL Light Automatic Rifle"
     },
     {
-      "name": "The FN Baby pistol explained"
+      "name": "The FN \"Baby\" pistol explained"
     },
     {
       "name": "FN FAL rifle explained"
@@ -32356,7 +32356,7 @@ const countries =
       "name": "Big Hunter"
     },
     {
-      "name": "sugar, sugar"
+      "name": "sugar sugar"
     },
     {
       "name": "ChopAssistant"
@@ -32524,7 +32524,8 @@ const countries =
       "name": "iHoroscope - 2018 Daily Horoscope & Astrology"
     }
   ];
-    
+
+
 const searchInput = document.querySelector('.search-input');
 const suggestionsPanel = document.querySelector('.suggestions');
 
@@ -32534,13 +32535,20 @@ suggestionsPanel.innerHTML = '';
 const suggestions = countries.filter(function(country) {
     return country.name.toLowerCase().startsWith(input);
 });
+
 suggestions.forEach(function(suggested) {
     const div = document.createElement('div');
     div.innerHTML = suggested.name;
     suggestionsPanel.appendChild(div);
 });
+
 if (input === '') {
     suggestionsPanel.innerHTML = '';  
 }
+
 })
-        
+
+function populate(el){
+  document.getElementById('barra').value = 
+  document.getElementById(el.id).firstChild.nodeValue;
+}

@@ -23,8 +23,10 @@
     </head>
 
     <body>
-        <p>hola, el input es: {{ appname }}</p>
-        
+        <p>Porque te a gustado: {{ appname }} te recomendamos: </p>
+        {% for recomendacion in recomendaciones %}
+        <p>{{ recomendacion }}</p>
+        {% endfor %}
     </body>
 </html>
 

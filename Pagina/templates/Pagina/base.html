@@ -6,6 +6,7 @@
         <title>Sistema de recomendacion</title>
         <link rel="stylesheet" href="{% static 'Pagina/base.css' %}">
         <link href='//fonts.googleapis.com/css?family=Lobster&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+        <script src="jquery-3.4.1.min.js"></script>
     </head>
 
 
@@ -19,6 +20,18 @@
         </div>
         
         <script src="{% static 'Pagina/text.js' %}"></script>
+        <script type="text/javascript">
+            $(function() 
+                {
+                    $("#sug").click(function(e) { 
+                    $("#barra").val("hola");
+                    });
+            });
+
+            function addText(){
+                document.getElementById('text2').innerHTML = document.getElementById('myText').value;
+            }
+        </script>
     </body>
 
     <footer>

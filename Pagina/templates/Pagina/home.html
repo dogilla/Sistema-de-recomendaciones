@@ -6,10 +6,13 @@
 {% block content %}
 
 <form method="POST"> {% csrf_token %}
-    <input class="search-input" type="text" maxlength="500" placeholder="buscar.." name="recomendacion" autocomplete="off"/>
-    <div class="suggestions">
+    <input id="barra" class="search-input" type="text" maxlength="500" placeholder="buscar.." name="recomendacion" autocomplete="off" onclick="populate(this)"/>
+    <div class="suggestions" id="sug">
+        
     </div>
     <input type="submit" value="Guardar" id="boton"/>
 </form>
+
+
 {% endblock content %}
 

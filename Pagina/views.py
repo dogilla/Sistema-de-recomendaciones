@@ -4,8 +4,8 @@ from django.http import HttpResponse
 from django.views.generic import CreateView, View
 from Pagina.models import Pagina
 from Pagina.forms import PaginaForm
-
-# Create your views here.
+from Pagina.Kmeans import Kmeans
+import csv
 
 class HomeView(CreateView):
     model = Pagina
@@ -22,9 +22,12 @@ class HomeView(CreateView):
         if form.is_valid():
             solucion = form.save()
             appname = str(solucion.recomendacion)
+            k = Kmeans(5)
+            recomendaciones = k.k_mean_resultado(appname)
         context = {
             'form': form,
             'appname': appname,
+            'recomendaciones': recomendaciones
         }
         return render(request, "Pagina/resultado.html" , context)
 
